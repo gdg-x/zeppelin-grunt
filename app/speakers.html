@@ -1,0 +1,15 @@
+---
+layout: default
+title: Speakers
+permalink: /speakers/
+modal: all
+---
+
+{% include general/top-section.html %}
+
+{% if site.data.speakers.speakers.showSessions %}
+    {% include speakers/speakers-list.html %}
+{% else %}
+    {% include speakers/speakers-list-2.html %}
+{% endif %}
+

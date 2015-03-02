@@ -1,0 +1,4 @@
+future: false
+show_drafts: false
+
+exclude: ['css', 'js', 'fonts']

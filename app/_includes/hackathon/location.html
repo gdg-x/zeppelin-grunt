@@ -1,0 +1,21 @@
+<!-- Begin Hackathon Location Section -->
+<section id="hackathon-location" class="hackathon-location">
+    <div id="canvas-map" class="canvas-map"></div>
+    <div class="content-wrapper">
+        <div class="col-lg-3 col-md-4 col-sm-6 animated hiding location-description text-left" data-animation="fadeInLeft" data-delay="0">
+            {% if site.data.[site.lang].hackathon.location.name %}
+            <h5 class="location-name">{{ site.data.[site.lang].hackathon.location.name }}</h5>
+            {% endif %}
+        <p class="location-address">{{ site.data.[site.lang].hackathon.location.streetAddress }}, {{ site.data.[site.lang].hackathon.location.addressLocality }}</p>
+            <div class="hackathon-time">
+                <span>{{ site.data.[site.lang].hackathon.location.timeTitle }}</span>
+                {% assign startTime = site.data.[site.lang].hackathon.location.startTime | split: "T" %}
+                <time>{{ startTime[1] }}</time> -
+                {% assign endTime = site.data.[site.lang].hackathon.location.endTime | split: "T" %}
+                <time>{{ endTime[1] }}</time>
+            </div>
+            <a href="http://maps.google.com/maps?ll={{ site.data.[site.lang].hackathon.location.placeCoordinates | replace:' ',''}}&z=17&t=m&hl=en-US&gl=US&mapclient=embed&q={{ site.data.[site.lang].hackathon.location.streetAddress | replace:' ','%20' | replace:',','%2C'}}%2C%20{{ site.data.[site.lang].hackathon.location.addressLocality | replace:' ','%20' | replace:',','%2C'}}" class="view-on-map" target="_blank">{{ site.data.[site.lang].hackathon.location.viewOnMap }}</a>
+        </div>
+    </div>
+</section>
+<!-- End Hackathon Location Section -->

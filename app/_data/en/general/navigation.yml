@@ -1,0 +1,12 @@
+links:
+ - {permalink: "/", text: "Home"}
+ - {permalink: "/blog/", text: "Blog"}
+ - {permalink: "/schedule/", text: "Schedule"}
+ - {permalink: "/speakers/", text: "Speakers"}
+ - {permalink: "/team/", text: "Team"}
+ - {permalink: "/logistics/", text: "Logistics"}
+ - {permalink: "/hackathon/", text: "Hackathon"}
+bottomLinks:
+ - {link: "http://bit.ly/dfua-c4p", text: "Become a speaker"}
+rightButtons:
+ - {link: "http://bit.ly/dfua-c4p", text: "Become a speaker"}

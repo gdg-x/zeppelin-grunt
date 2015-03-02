@@ -1,0 +1,12 @@
+links:
+ - {permalink: "/", text: "Головна"}
+ - {permalink: "/blog/", text: "Блог"}
+ - {permalink: "/schedule/", text: "Розклад"}
+ - {permalink: "/speakers/", text: "Доповідачі"}
+ - {permalink: "/team/", text: "Команда"}
+ - {permalink: "/logistics/", text: "Логістика"}
+ - {permalink: "/hackathon/", text: "Хакатон"}
+bottomLinks:
+ - {link: "http://bit.ly/dfua-c4p", text: "Стати доповідачем"}
+rightButtons:
+ - {link: "http://bit.ly/dfua-c4p", text: "Стати доповідачем"}

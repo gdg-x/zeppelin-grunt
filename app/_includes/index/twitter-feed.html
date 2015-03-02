@@ -1,0 +1,15 @@
+<!-- Begin Twitter Feed Section -->
+<section id="twitter-feed" class="twitter-feed image-section parallax" style="background-image: url({{ site.baseurl_root }}/img/sections-background/{{ site.data.[site.lang].index.twitter-feed.image }});">
+    <div class="overlay solid-overlay"></div>
+    <div class="content-wrapper">
+        <div class="col-md-8 col-md-offset-2">
+            <svg class="icon" viewBox="0 0 30 32">
+                <use xlink:href="{{ site.baseurl_root }}/img/sprites/sprites.svg#icon-twitter"></use>
+            </svg>
+            <h3>{{ site.data.[site.lang].index.twitter-feed.title }} <a href="https://twitter.com/search?q=%23{{ site.data.[site.lang].index.twitter-feed.hashTag }}" target="_blank">#{{ site.data.[site.lang].index.twitter-feed.hashTag }}</a>
+            </h3>
+            <div id="tweets" class="tweets"></div>
+        </div>
+    </div>
+</section>
+<!-- End Twitter Feed Section -->

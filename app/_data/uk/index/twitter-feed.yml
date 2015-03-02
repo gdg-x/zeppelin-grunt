@@ -1,0 +1,4 @@
+image: "twitter-feed.jpg"
+title: "Що нового?"
+hashTag: "devfest"
+feed: "http://lviv.gdg.org.ua/tweetledee/favoritesjson.php?c=10&cache_interval=8000"

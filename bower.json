@@ -1,0 +1,11 @@
+{
+    "name": "zeppelin-grunt",
+    "version": "0.0.1",
+    "devDependencies": {
+        "animate-sass": "0.6.3",
+        "bootstrap-sass": "3.3.3",
+        "typed.js": "*",
+        "sticky-kit": "1.1.1",
+        "waves": "0.6.2"
+    }
+}
