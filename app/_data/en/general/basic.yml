@@ -24,8 +24,8 @@ c4pUrl: "http://bit.ly/dfua-c4p"
 c4pButton: "Become a speaker"
 
 # Varibles
-googleAnalyticsTrackingId: ""
-webtoolsSiteVerification: ""
+googleAnalyticsTrackingId: "UA-43643469-7"
+webtoolsSiteVerification: "b9imDOrFawXaBXCC4r3uJDdswSYcalD-wWpMYhFq-no"
 disqusShortName: "devfestua"
 
 # i18n
