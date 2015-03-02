@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>http://gdg-x.github.io/zeppelin-grunt/uk/blog/call-for-papers</loc>
+    <lastmod>2014-07-21T12:00:00+03:00</lastmod>
+  </url>
+  <url>
+    <loc>http://gdg-x.github.io/zeppelin-grunt/uk/blog/hello-world</loc>
+    <lastmod>2014-07-21T11:00:00+03:00</lastmod>
+  </url>
+  <url>
+    <loc>http://gdg-x.github.io/zeppelin-grunt/uk/blog/</loc>
+    <lastmod>2015-03-02T22:53:33+02:00</lastmod>
+  </url>
+  <url>
+    <loc>http://gdg-x.github.io/zeppelin-grunt/uk/cod/</loc>
+    <lastmod>2015-03-02T22:53:33+02:00</lastmod>
+  </url>
+  <url>
+    <loc>http://gdg-x.github.io/zeppelin-grunt/uk/hackathon/</loc>
+    <lastmod>2015-03-02T22:53:33+02:00</lastmod>
+  </url>
+  <url>
+    <loc>http://gdg-x.github.io/zeppelin-grunt/uk/</loc>
+    <lastmod>2015-03-02T22:53:33+02:00</lastmod>
+  </url>
+  <url>
+    <loc>http://gdg-x.github.io/zeppelin-grunt/uk/logistics/</loc>
+    <lastmod>2015-03-02T22:53:33+02:00</lastmod>
+  </url>
+  <url>
+    <loc>http://gdg-x.github.io/zeppelin-grunt/uk/schedule/</loc>
+    <lastmod>2015-03-02T22:53:33+02:00</lastmod>
+  </url>
+  <url>
+    <loc>http://gdg-x.github.io/zeppelin-grunt/uk/speakers/</loc>
+    <lastmod>2015-03-02T22:53:33+02:00</lastmod>
+  </url>
+  <url>
+    <loc>http://gdg-x.github.io/zeppelin-grunt/uk/team/</loc>
+    <lastmod>2015-03-02T22:53:33+02:00</lastmod>
+  </url>
+</urlset>
