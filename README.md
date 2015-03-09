@@ -60,6 +60,8 @@ permalink: '/blog/:title'
 2.  `grunt serve:dist` - build and start your site with **production** configs (this is how it will look online)
 3.  `grunt deploy` - build and deploy your site into a repository you defined in previous steps
 
+#### More documentation you can find [here](https://github.com/gdg-x/zeppelin-grunt/wiki).
+
 ### Who is using template?
 View [known sites](https://github.com/gdg-x/zeppelin#who-is-using-template) that use the original project.
 
