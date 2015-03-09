@@ -90,7 +90,7 @@
                 rockstarSpeakers.sort(function() {return 0.5 - Math.random()});
                 if(rockstarSpeakers.length > 0) {
                     var animationDelay = 1500,
-                        count = {{ site.data.[site.lang].index.rockstar-speakers.count }},
+                        count = Math.min({{ site.data.[site.lang].index.rockstar-speakers.count }}, rockstarSpeakers.length),
                         colWidth = 12/count;
                     for(i=0; i<count; i++) {
                         var clearfix = '<div class="clearfix visible-xs"></div>';

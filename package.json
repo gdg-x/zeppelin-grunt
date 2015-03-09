@@ -15,9 +15,9 @@
         "grunt-contrib-imagemin": "~0.9.3",
         "grunt-contrib-uglify": "~0.8.0",
         "grunt-contrib-watch": "~0.6.1",
-        "grunt-critical": "~0.1.1",
+        "grunt-critical": "~0.1.2",
         "grunt-jekyll": "~0.4.2",
-        "grunt-sass": "~0.18.0",
+        "grunt-sass": "~0.18.1",
         "grunt-svgmin": "~2.0.1",
         "jit-grunt": "~0.9.1",
         "time-grunt": "~1.1.0"

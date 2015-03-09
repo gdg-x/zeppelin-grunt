@@ -139,10 +139,13 @@ nav {
     }
 }
 .right-nav-button {
-    margin: 11px 65px 0 0;
+    margin: 11px 11px 0 0;
     transition: $base-transition;
     opacity: 1;
     display: block;
+    &:nth-of-type(1) {
+        margin-right: 65px;
+    }
     a {
         font-size: $base-font-size * 90 / 100;
     }

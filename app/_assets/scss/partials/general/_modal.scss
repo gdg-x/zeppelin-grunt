@@ -1,6 +1,7 @@
 $modal-color: #757575;
 $modal-highlight-color: #212121;
 .modal {
+    z-index: 1050;
     .icon-cross {
         width: 19px;
         height: 19px;
@@ -21,6 +22,14 @@ $modal-highlight-color: #212121;
             font-size: 29px;
         }
     }
+}
+.modal-backdrop {
+    position: fixed;
+    top: 0;
+    bottom: 0;
+    right: 0;
+    left: 0;
+    z-index: 1040;
 }
 .modal-content {
     border-radius: 4px;
