@@ -4,9 +4,9 @@
     <title></title>
     <description></description>
     <link>http://gdg-x.github.io/zeppelin-grunt/uk/</link>
-    <atom:link href="http://gdg-x.github.io/zeppelin-grunt/uk/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Mon, 09 Mar 2015 22:41:18 +0200</pubDate>
-    <lastBuildDate>Mon, 09 Mar 2015 22:41:18 +0200</lastBuildDate>
+    <atom:link href="http://gdg-x.github.io/zeppelin-grunt/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Mon, 30 Mar 2015 01:19:15 +0300</pubDate>
+    <lastBuildDate>Mon, 30 Mar 2015 01:19:15 +0300</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
@@ -89,9 +89,11 @@
         <guid isPermaLink="true">http://gdg-x.github.io/zeppelin-grunt/uk/blog/call-for-papers</guid>
         
         
-        <category>_i18n</category>
+            
         
-        <category>uk</category>
+            
+            <category>uk</category>
+            
         
       </item>
     
@@ -129,9 +131,11 @@ the final missing parts to the biggest Google related event in Ukraine - &lt;a h
         <guid isPermaLink="true">http://gdg-x.github.io/zeppelin-grunt/uk/blog/hello-world</guid>
         
         
-        <category>_i18n</category>
+            
         
-        <category>uk</category>
+            
+            <category>uk</category>
+            
         
       </item>
     
