@@ -35,7 +35,7 @@
 	<div class="row">
 		<div class="col-md-6 col-xs-12">
 			<ul class="social-links">
-				{% for social in site.[site.lang].data.general.footer.socialLinks %}
+				{% for social in site.data.[site.lang].general.footer.socialLinks %}
 				<li>
 					<a href="{% if social.permalink != null %} {{ social.permalink | prepend: site.baseurl }} {% else %} {{ social.link }} {% endif %}" target="_blank">
 						<svg class="icon icon-{{ social.icon }}" viewBox="0 0 30 32">
