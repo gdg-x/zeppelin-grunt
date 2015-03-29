@@ -10,6 +10,7 @@ twitterAccount: "@DevFest"
 socialImageSrcGooglePlus: "/img/seo/sharing-google-plus.png"
 socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
 socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
+themeColor: "#03a9f4"
 
 # Organizer Info
 organizerName: "GDG Lviv"

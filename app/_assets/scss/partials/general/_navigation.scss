@@ -116,7 +116,7 @@ nav {
                 color: rgba(0, 0, 0, .3);
                 outline: 0;
             }
-            &.current, &:hover {
+            &.current, &:hover, &:active, &:focus {
                 text-decoration: none;
                 color: $nav-color-hover;
                 @media (max-width: 767px) {
@@ -136,6 +136,24 @@ nav {
                 }
             }
         }
+    }
+    .dropdown-menu {
+        top: 0;
+        border-radius: 0.2em;
+        li {
+            width: 100%;
+            padding: 0;
+        }
+        a {
+            padding: 10px 20px;
+            outline: 0;
+            @media (max-width: 767px) {
+                white-space: initial;
+            }
+        }
+    }
+    .caret {
+        margin-top: -2px;
     }
 }
 .right-nav-button {
@@ -164,16 +182,17 @@ nav {
 }
 .menu-trigger {
     float: right;
-    transform: translateY(20px);
+    transform: translateY(22px);
     right: 45px;
     transition: $base-transition;
 }
 .bottom-navlinks {
     position: absolute;
     bottom: 26px;
+    z-index: -1;
 }
 .bottom-navlinks-small {
+    margin-top: 75px !important;
     position: relative;
     bottom: 26px;
-    margin-top: 75px !important;
 }

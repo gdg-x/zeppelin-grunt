@@ -1,5 +1,5 @@
-
 <head>
+    {% capture title %}{% t page.title %}{% endcapture %}
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1,minimum-scale=1.0,maximum-scale=1.0,user-scalable=no">
@@ -7,22 +7,23 @@
     <meta name="description" content="{{ site.data.[site.lang].general.basic.description }}">
     <meta name="keywords" content="{{ site.data.[site.lang].general.basic.metaKeywords }}">
     <meta name="google-site-verification" content="{{ site.data.[site.lang].general.basic.webtoolsSiteVerification }}" />
+    <meta name="theme-color" content="{{ site.data.[site.lang].general.basic.themeColor }}">
     <link rel="canonical" href="{{ site.url }}">
     <!-- Social: Twitter -->
     <meta name="twitter:card" content="summary">
     <meta name="twitter:site" content="{{ site.data.[site.lang].general.basic.twitterAccount }}">
-    <meta name="twitter:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.data.[site.lang].general.basic.title }}{% endif %}">
+    <meta name="twitter:title" content="{% if page.title %}{% if title != '' %}{{ title }}{% else %}{{ page.title }}{% endif %}{% else %}{{ site.data.[site.lang].general.basic.title }}{% endif %}">
     <meta name="twitter:description" content="{{ site.data.[site.lang].general.basic.description }}">
     <meta name="twitter:image:src" content="{{ site.data.[site.lang].general.basic.socialImageSrcTwitter | prepend: site.baseurl_root | prepend: site.url }}">
     <!-- Social: Facebook / Open Graph -->
-    <meta property="og:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.data.[site.lang].general.basic.title }}{% endif %}" /> 
+    <meta property="og:title" content="{% if page.title %}{% if title != '' %}{{ title }}{% else %}{{ page.title }}{% endif %}{% else %}{{ site.data.[site.lang].general.basic.title }}{% endif %}" /> 
     <meta property="og:site_name" content="{{ site.data.[site.lang].general.basic.title }}" /> 
     <meta property="og:type" content="website" /> 
     <meta property="og:url" content="{{ site.url }}" />
     <meta property="og:image" content="{{ site.data.[site.lang].general.basic.socialImageSrcFacebook | prepend: site.baseurl_root | prepend: site.url }}" />
     <meta property="og:description" content="{{ site.data.[site.lang].general.basic.description }}" /> 
     
-    <title>{% if page.title %}{{ page.title }} &bull; {{ site.data.[site.lang].general.basic.title }}{% else %}{{ site.data.[site.lang].general.basic.title }}{% endif %}</title>
+    <title>{% if page.title %}{% if title != '' %}{{ title }}{% else %}{{ page.title }}{% endif %} &bull; {{ site.data.[site.lang].general.basic.title }}{% else %}{{ site.data.[site.lang].general.basic.title }}{% endif %}</title>
     <link rel="shortcut icon" href="{{ "/img/favicons/favicon.ico" | prepend: site.baseurl_root }}">
     <link rel="apple-touch-icon" sizes="152x152" href="{{ "/img/favicons/apple-touch-icon-152x152.png" | prepend: site.baseurl_root }}">
     <link rel="apple-touch-icon" sizes="144x144" href="{{ "/img/favicons/apple-touch-icon-144x144.png" | prepend: site.baseurl_root }}">

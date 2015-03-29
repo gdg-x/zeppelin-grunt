@@ -23,53 +23,45 @@ module.exports = function(grunt) {
                 tasks: ['uglify:server']
             },
             jekyll: {
-                files: ['<%= app.source %>/**/*.{html,yml,md,mkd,markdown}'],
+                files: ['<%= app.source %>/**/*.{html,yml,md,mkd,markdown,json,xml}'],
                 tasks: ['jekyll:server']
             },
             images: {
                 files: ['<%= app.source %>/img/**/*.{gif,jpg,jpeg,png,svg,webp}'],
                 tasks: ['copy:server']
-            },
-            livereload: {
-                options: {
-                    livereload: '<%= connect.options.livereload %>'
-                },
-                files: [
-                    '.tmp/<%= app.baseurl %>/css/*.css',
-                    '.tmp/<%= app.baseurl %>/js/*.js',
-                    '.tmp/<%= app.baseurl %>/img/**/*.{gif,jpg,jpeg,png,svg,webp}'
-                ]
             }
         },
-        connect: {
+        browserSync: {
             options: {
+                notify: false,
                 port: 9000,
-                livereload: 35729,
-                // change this to '0.0.0.0' to access the server from outside
-                hostname: 'localhost'
+                open: true,
+                startPath: '/<%= app.baseurl %>'
             },
-            livereload: {
+            server: {
                 options: {
-                    open: {
-                        target: 'http://localhost:9000/<%= app.baseurl %>'
-                    },
-                    base: [
-                        '.jekyll',
-                        '.tmp',
-                        '<%= app.source %>'
-                    ]
-                }
+                    watchTask: true,
+                    injectChanges: true,
+                    server: {
+                        baseDir: ['.jekyll', '.tmp']
+                    }
+                },
+                src: [
+                    '.jekyll/**/*.{css,html,js,json,xml}',
+                    '.tmp/**/*.{css,html,js,json,xml}',
+                    '<%= app.source %>/**/*.{css,html,js,json,xml}'
+                ]
             },
             dist: {
                 options: {
-                    open: {
-                        target: 'http://localhost:9000/<%= app.baseurl %>'
-                    },
-                    base: [
-                        '<%= app.dist %>',
-                        '.tmp'
-                    ]
-                }
+                    server: {
+                        baseDir: '<%= app.dist %>'
+                    }
+                },
+                src: [
+                    '<%= app.dist %>/**/*.{css,html,js,json,xml}',
+                    '.tmp/**/*.{css,html,js,json,xml}'
+                ]
             }
         },
         clean: {
@@ -290,6 +282,20 @@ module.exports = function(grunt) {
                     src: ['img/**/*'],
                     dest: '.tmp/<%= app.baseurl %>'
                 }]
+            },
+            dist: {
+                files: [{
+                    expand: true,
+                    cwd: 'bower_components/bootstrap-sass/assets/javascripts',
+                    src: 'bootstrap.min.js',
+                    dest: '<%= app.dist %>/<%= app.baseurl %>/js'
+                },
+                {
+                    expand: true,
+                    cwd: 'bower_components/jquery/dist',
+                    src: ['jquery.min.js', 'jquery.min.map'],
+                    dest: '<%= app.dist %>/<%= app.baseurl %>/js'
+                }]
             }
         },
         buildcontrol: {
@@ -309,7 +315,7 @@ module.exports = function(grunt) {
     // Define Tasks
     grunt.registerTask('serve', function(target) {
         if (target === 'dist') {
-            return grunt.task.run(['build', 'connect:dist:keepalive']);
+            return grunt.task.run(['build', 'browserSync:dist']);
         }
 
         grunt.task.run([
@@ -319,7 +325,7 @@ module.exports = function(grunt) {
             'sass:server',
             'autoprefixer:server',
             'uglify:server',
-            'connect:livereload',
+            'browserSync:server',
             'watch'
         ]);
     });
@@ -339,6 +345,7 @@ module.exports = function(grunt) {
         'autoprefixer:dist',
         'cssmin',
         'critical',
+        'copy:dist',
         'htmlmin'
     ]);
 
