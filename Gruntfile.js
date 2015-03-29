@@ -11,7 +11,8 @@ module.exports = function(grunt) {
             source: 'app',
             dist: 'dist',
             baseurl: 'zeppelin-grunt',
-            git_repo: 'git@github.com:gdg-x/zeppelin-grunt.git'
+            git_repo: 'git@github.com:gdg-x/zeppelin-grunt.git',
+            branch: 'gh-pages'
         },
         watch: {
             sass: {
@@ -297,7 +298,7 @@ module.exports = function(grunt) {
                 options: {
                     dir: '<%= app.dist %>/<%= app.baseurl %>',
                     remote: '<%= app.git_repo %>',
-                    branch: 'gh-pages',
+                    branch: '<%= app.branch %>',
                     commit: true,
                     push: true,
                     connectCommits: false
