@@ -1,8 +1,8 @@
 image: "hero.jpg"
-title: "GDG DevFest <typeout> 2014"
-eventDate: "September - November, 2014"
-typeoutTextValues: '"", "Season", "Ukraine", "Germany", "USA"'
-typeoutFallback: "Season"
+title: "Enterprise Day 2015<typeout>"
+eventDate: "18, November"
+typeoutTextValues: '"", "Atlassian", "user case stories", "inspiring keynotes", "JIRA" , "innovation"'
+typeoutFallback: " 2015"
 buttons:
  - {link: "http://bit.ly/dfua-c4p", text: "Become a speaker"}
- - {permalink: "/#tickets", text: "Buy tickets"}
+# - {permalink: "/#tickets", text: "Buy tickets"}

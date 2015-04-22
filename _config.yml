@@ -15,7 +15,7 @@ markdown: kramdown
 
 # Site settings
 baseurl: "/zeppelin-grunt"
-url: "http://gdg-x.github.io"
+url: "https://riada.se/enterpriseday"
 permalink: '/blog/:title'
 
 # i18n
