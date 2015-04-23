@@ -1,4 +1,4 @@
-languagesTitle: "Languages"
+#languagesTitle: "Languages"
 socialLinks:
  - {link: "https://plus.google.com/102444623953913144164", icon: "google-plus"}
  - {link: "https://twitter.com/intent/user?screen_name=GDGLviv", icon: "twitter"}
@@ -8,12 +8,12 @@ blocks:
  -
   title: "Links"
   links:
-   - {link: "http://gdg.org.ua", text: "GDG.org.ua"}
-   - {link: "https://developers.google.com", text: "Google Developers"}
+   - {link: "https://www.riada.se", text: "Riada AB"}
+   - {link: "https://www.atlassian.com", text: "Atlassian"}
  -
   title: "Contacts"
   links:
-   - {link: "mailto:lviv@gdg.org.ua", text: "lviv@gdg.org.ua"}
+   - {link: "mailto:info@riada.se", text: "info@riada.se"}
  -
   title: "FAQ"
   links:
