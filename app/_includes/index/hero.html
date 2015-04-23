@@ -4,8 +4,9 @@
     <div class="content-wrapper">
     <div class="jumbotron">
         {% assign heroText = site.data.[site.lang].index.hero.title | split:"<typeout>" %}
+        <!--<p>{{ site.data.[site.lang].index.hero.eventDate }}</p>-->
         <h1>{{ heroText[0] }}<br><!--<span id="typeout-text" class="hidden-xs"></span><span class="typeout-fallback">{{ site.data.[site.lang].index.hero.typeoutFallback }}</span>{{ heroText[1] }}--></h1>
-        <p>{{ site.data.[site.lang].index.hero.eventDate }}</p>
+
             {% for button in site.data.[site.lang].index.hero.buttons %}
         <a href="{% if button.permalink != null %} {{ button.permalink | prepend: site.baseurl }} {% else %} {{ button.link }} {% endif %}" class="btn btn-primary waves-effect waves-button waves-light waves-float" {% if button.link != null %}target="_blank"{% endif %}>{{ button.text }}</a>
         {% endfor %}
