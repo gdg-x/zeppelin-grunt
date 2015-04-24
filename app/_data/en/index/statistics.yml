@@ -3,4 +3,4 @@ blocks:
  - {count: "200", specialCharacter: "+", info: "attendees", detail: "from everywhere"}
  - {count: "12", specialCharacter: "+", info: "hours", detail: "of inspiring talks and workshops"}
  - {count: "4", specialCharacter: "+", info: "keynote speakers", detail: "from country and beyond"}
- - {count: "3", specialCharacter: "", info: "parallel tracks", detail: "plus entertainment lounge"}
+ - {count: "3", specialCharacter: "", info: "lightning talks", detail: "plus much more"}

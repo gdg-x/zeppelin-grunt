@@ -2,7 +2,7 @@
 <section id="about" class="about">
     <div class="content-wrapper">
         <div class="col-lg-10 col-lg-offset-1">
-            <h3>{{ site.data.[site.lang].index.about.title }}</h3>
+            <h3>{{ site.data.[site.lang].index.about.title }}<!--<span id="typeout-text" class="hidden-xs"></span><span class="typeout-fallback">{{ site.data.[site.lang].index.hero.typeoutFallback }}</span>{{ heroText[1] }}--></h3>
             <div class="row about-details">
                 {% assign animationDelay = 0 %}
                 {% for about in site.data.[site.lang].index.about.blocks %}
@@ -20,6 +20,8 @@
                 {% if check == 0 %} <div class="clearfix visible-xs"></div> {% endif %}
                 {% endfor %}
             </div>
+        </div>
+        <div class="col-lg-10 col-lg-offset-1">
         </div>
     </div>
 </section>

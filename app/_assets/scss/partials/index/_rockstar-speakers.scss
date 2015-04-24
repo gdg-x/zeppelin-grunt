@@ -13,7 +13,8 @@ $small-rockstar-image-size: 120px;
     .sub {
         font-size: $base-font-size * 1.4;
         margin: 0 0 15px;
-        color: $link-color;
+        color: #fff;
+        font-weight: bold;
         @media (max-width: 767px) {
             font-size: 16px;
         }

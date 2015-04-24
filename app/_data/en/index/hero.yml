@@ -1,8 +1,8 @@
 image: "hero.jpg"
-title: "Enterprise Day 2015<typeout>"
+title: "Enterprise Day 2015"
 eventDate: "18, November"
 typeoutTextValues: '"", "Atlassian", "user case stories", "inspiring keynotes", "JIRA" , "innovation"'
 typeoutFallback: " 2015"
 buttons:
-# - {link: "http://bit.ly/dfua-c4p", text: "Become a speaker"}
- - {permalink: "/#tickets", text: "Buy tickets"}
+ - {link: "http://bit.ly/dfua-c4p", text: "Become a speaker"}
+ - {permalink: "/#tickets", text: "Register for Enterprise Day"}

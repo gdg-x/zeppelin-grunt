@@ -1,20 +1,19 @@
 ---
 layout: post
 title:  "Hello World!"
-date:   2014-07-21 08:00:00
+date:   2015-04-24 08:00:00
 isStaticPost: false
 ---
 
-We're very excited - not just because of the inordinate amount of caffeine based products consumed - 
-but also because our team are putting together 
-the final missing parts to the biggest Google related event in Ukraine - [GDG DevFest 2014](http://devfest.gdg.org.ua/). 
+Whether you're a developer, project manager, tester, support agent, for a small team or in the enterprise – this day is made for you.
+the final missing parts to the biggest Google related event in Ukraine - [GDG DevFest 2014](http://devfest.gdg.org.ua/).
 
 This year event will take place in cultural capital of Ukraine - Lviv. Being a unique European city in Ukraine, Lviv is among top 10 cities of the world to visit in 2014 according to the travel group “The Rough Guide” and is among top 10 cities for spending weekends in Europe according to Lonely Planet. So take your time to spend weeked in last hidden gem in the Europe in company of experts and technical geeks.
 
 So should you also be excited? Well yes... and here's why!
 
 * **Attendance**: we're expecting over 350 attendees
-* **Topic**: more than 48 hours of pure Google technologies 
+* **Topic**: more than 48 hours of pure Google technologies
 * **Date**: 24-25 of October, expect hackathon and workshops on a first day and conference on the second
 * **Venue**: Kinopalace Cinema - for a first time we'll make technical event in real cinema directly in the heart of the ancient city of Lviv
 * **Speakers**: we're in the process of finalising the list of speakers
