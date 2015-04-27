@@ -9,7 +9,7 @@ offers:
   ribbon: "-96%"
   featured: true
   buyButtonLink: "http://goo.gl/forms/rmlL2FNzm3"
-  buyButtonText: "Buy Now"
+  buyButtonText: "Register now"
   ticketContentList: ["Only a limited amount of early bird tickets avaliable for sale.", "Billing will occur on the final sell date of your ticket type.", "Last cancellation date is 30-Jun-2015."]
   validFrom: "2015-08-25T10:00"
   validThrough: "2014-09-30T23:59"

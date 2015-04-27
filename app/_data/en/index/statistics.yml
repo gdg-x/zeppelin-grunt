@@ -1,6 +1,6 @@
 image: "statistic.jpg"
 blocks:
- - {count: "200", specialCharacter: "+", info: "attendees", detail: "from everywhere"}
- - {count: "12", specialCharacter: "+", info: "hours", detail: "of inspiring talks and workshops"}
- - {count: "4", specialCharacter: "+", info: "keynote speakers", detail: "from country and beyond"}
- - {count: "3", specialCharacter: "", info: "lightning talks", detail: "plus much more"}
+ - {count: "250", specialCharacter: "+", info: "attendees", detail: "from everywhere"}
+ - {count: "6", specialCharacter: "", info: "keynote speakers", detail: "from country and beyone"}
+ - {count: "4", specialCharacter: "", info: "lightning talks", detail: "about innovation"}
+ - {count: "2", specialCharacter: "", info: "days", detail: "of workshops and learning"}

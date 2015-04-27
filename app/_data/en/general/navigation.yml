@@ -3,7 +3,7 @@ links:
  - {permalink: "/schedule/", text: "Schedule"}
  - {permalink: "/speakers/", text: "Speakers"}
  - {permalink: "/team/", text: "Become Sponsor"}
- - {permalink: "/logistics/", text: "Register"}
+ - {permalink: "/#tickets", text: "Register"}
  -
    subText: "Social"
    links:
@@ -11,6 +11,6 @@ links:
     - {link: "https://twitter.com/riadaab", text: "@RiadaAB"}
     - {link: "https://www.facebook.com/RiadaAB", text: "Riada Ab"}
 bottomLinks:
- - {link: "http://bit.ly/dfua-c4p", text: "Become a speaker"}
+ - {link: "http://goo.gl/forms/18YZSyQ7Qm", text: "Become a speaker"}
 rightButtons:
- - {link: "http://bit.ly/dfua-c4p", text: "Become a speaker"}
+ - {link: "http://goo.gl/forms/18YZSyQ7Qm", text: "Become a speaker"}
