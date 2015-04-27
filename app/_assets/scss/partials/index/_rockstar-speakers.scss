@@ -3,6 +3,7 @@ $small-rockstar-image-size: 120px;
 
 .rockstar-speakers {
     .name {
+        display: none;
         font-size: 26px;
         line-height: 1.1;
         margin: 10px 0 2px;
@@ -11,6 +12,7 @@ $small-rockstar-image-size: 120px;
         }
     }
     .sub {
+        display: none;
         font-size: $base-font-size * 1.4;
         margin: 0 0 15px;
         color: #fff;
@@ -24,6 +26,7 @@ $small-rockstar-image-size: 120px;
     padding-bottom: 13px;
 }
 .rockstar-speaker-img {
+    display: none;
     width: $rockstar-image-size;
     height: $rockstar-image-size;
     margin: 0 auto;
