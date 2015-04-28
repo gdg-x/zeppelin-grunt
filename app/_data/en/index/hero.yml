@@ -2,7 +2,7 @@ image: "hero.jpg"
 title: "Enterprise Day 2015"
 eventDate: "18, November"
 typeoutTextValues: '"", "Atlassian", "user case stories", "inspiring keynotes", "JIRA" , "is about innovation"'
-typeoutFallback: ""
+typeoutFallback: "is about innovation"
 buttons:
  - {link: "http://goo.gl/forms/18YZSyQ7Qm", text: "Become a speaker"}
  - {permalink: "/#tickets", text: "Register for Enterprise Day"}

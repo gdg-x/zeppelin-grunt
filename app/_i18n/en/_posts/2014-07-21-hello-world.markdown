@@ -25,5 +25,6 @@ but we've already secured a first batch of experts:
 * **Dmytro Danylyk** - developer, blogger, speaker, author of open source 1000+ star libraries <br>
 * **Roman Mazur** - speaker on various international conferences like Droidcon Eastern Europe and Ankara Developer Days<br>
 
+If you missed last years event check out the videos [here](https://riada.se/en/company/events/archive/enterpriseday14).
 
 More details about speakers, DevFest Hackathon and Lviv will appear in subsequent posts, meantime like us on [Facebook](https://facebook.com/GDGLviv), follow on [Twitter](https://twitter.com/intent/user?screen_name=GDGLviv), add to circles in [Google+](https://plus.google.com/b/102444623953913144164) or subcribe to our [mailing list](http://gdg.us5.list-manage1.com/subscribe/post?u=9fc8aa205b0521b5f05fc8e1e&id=ae0fb459fc) and [RSS feed](http://devfest.gdg.org.ua/feed.xml) in order not to miss any cool stuff about festival.

@@ -1,12 +1,12 @@
 # Site Settings
 title: "Enterprise Day 2015"
-email: "info@riada.se"
-description: "GDG DevFest is a set of events all around the world"
+email: "enterpriseday@riada.se"
+description: "An opportunity to meet live case studies, experiences and business solutions with Atlassian and Riada."
 enablePreloader: false
 
 # Head
 metaKeywords: "atlassian, enterprise, riada, jira, stash, fisheye, confluence, developers"
-twitterAccount: "@DevFest"
+twitterAccount: "@riadaab"
 socialImageSrcGooglePlus: "/img/seo/sharing-google-plus.png"
 socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
 socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
@@ -14,19 +14,19 @@ themeColor: "#03a9f4"
 
 # Organizer Info
 organizerName: "Riada AB"
-organizerAlternateName: "Google Developer Group Lviv"
-organizerDescription: "Open and volunteer geek communities who create exciting projects and share experience about Google technology with passion."
+organizerAlternateName: "Riada"
+organizerDescription: "An opportunity to meet live case studies, experiences and business solutions with Atlassian and Riada."
 organizerEmail: "enterprise@riada.se"
 organizerLogo: "/img/seo/organizer-logo.png"
 organizerLink: "https://riada.se/"
 
 # Documents
-c4pUrl: "http://bit.ly/dfua-c4p"
+c4pUrl: "http://goo.gl/forms/18YZSyQ7Qm"
 c4pButton: "Become a speaker"
 
 # Varibles
-googleAnalyticsTrackingId: "UA-43643469-7"
-webtoolsSiteVerification: "b9imDOrFawXaBXCC4r3uJDdswSYcalD-wWpMYhFq-no"
+#googleAnalyticsTrackingId: "UA-43643469-7"
+#webtoolsSiteVerification: "b9imDOrFawXaBXCC4r3uJDdswSYcalD-wWpMYhFq-no"
 disqusShortName: "enterpriseday15"
 
 # i18n

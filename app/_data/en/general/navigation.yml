@@ -1,8 +1,8 @@
 links:
- - {permalink: "/", text: "Why Attend"}
- - {permalink: "/schedule/", text: "Schedule"}
- - {permalink: "/speakers/", text: "Speakers"}
- - {permalink: "/team/", text: "Become Sponsor"}
+ - {permalink: "/#about", text: "Why Attend"}
+ - {permalink: "/#", text: "Schedule (TBA)"}
+ - {permalink: "/#", text: "Speakers (TBA)"}
+ - {link: "http://goo.gl/forms/C1hqZBv1gW", text: "Become Sponsor"}
  - {permalink: "/#tickets", text: "Register"}
  -
    subText: "Social"

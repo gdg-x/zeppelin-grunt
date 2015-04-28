@@ -21,7 +21,7 @@
 		{% endfor %}
 		<div class="col-md-{{ colWidth }} col-xs-6">
 			<h5>{{ site.data.[site.lang].general.footer.languagesTitle }}</h5>
-			<ul>
+			<!--<ul>
 				{% for lang in site.languages %}
 				{% if lang != site.lang and forloop.index0 != 0 %}
 					<li><a href="{{ site.baseurl_root | append: '/' | append: lang | append: page.url }}" title="{{ site.data.[lang].general.basic.languages[lang] }}">{{ site.data.[lang].general.basic.languages[lang] }}</a></li>
@@ -29,7 +29,7 @@
 					<li><a href="{{ site.baseurl_root | append: page.url }}" title="{{ site.data.[lang].general.basic.languages[lang] }}">{{ site.data.[lang].general.basic.languages[lang] }}</a></li>
 				{% endif %}
 				{% endfor %}
-			</ul>
+			</ul>-->
 		</div>
 	</div>
 	<div class="row">
