@@ -14,10 +14,10 @@ show_drafts: true
 markdown: kramdown
 
 # Site settings
-baseurl: "/zeppelin-grunt"
-url: "https://riada.se/enterpriseday"
+baseurl: "/meta/enterpriseday"
+url: "https://riada.se"
 permalink: '/blog/:title'
 
 # i18n
-languages: ["en", "uk"]
+languages: ["en"]
 exclude_from_localizations: ["js", "img", "css"]
