@@ -1,6 +1,6 @@
 image: "statistic.jpg"
 blocks:
  - {count: "250", specialCharacter: "+", info: "attendees", detail: "from everywhere"}
- - {count: "6", specialCharacter: "", info: "keynote speakers", detail: "from country and beyond"}
- - {count: "4", specialCharacter: "", info: "lightning talks", detail: "about innovation"}
- - {count: "2", specialCharacter: "", info: "days", detail: "of workshops and learning"}
+ - {count: "12", specialCharacter: "+", info: "experts", detail: "on Atlassian"}
+ - {count: "6", specialCharacter: "+", info: "talks", detail: "about innovation"}
+ - {count: "1", specialCharacter: "", info: "day", detail: "of workshops and learning"}

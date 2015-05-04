@@ -4,55 +4,44 @@ title:  "Call for Speakers!"
 date:   2015-04-25 09:00:00
 isStaticPost: false
 ---
-We welcome submissions for both keynote presentations and lightning talks. Apply now for the opportunity to shine! We are looking for speakers with indepth knowledge and interesting stories to tell.
+#### General Guidelines
 
-#### Are you our ideal speaker?
+Riada & Atlassian Enterprise Day sessions are intended to provide attendees with valuable takeaways to help their teams work smarter. We're looking for great examples of how Atlassian products empower better ways of working together.<br/>
 
-* developers (freelance and hired)
-* companies developing software (apps, tools, frameworks etc.)
-* research institutions with Google relevant activities
-* companies, organisations and individuals using Google technologies
+#### Enterprise Day 2015 focus areas
 
-If you belong to one of those groups you are cordially invited to submit a talk proposal (or a number of proposals). An independent program committee assesses the proposals and selects the actual conference talks.<br/>
+##### Innovate
 
-#### Lightning or keynote?
-A lightning talk is a 10 minute presentation on a interesting topic related the the Enterprise Day focus areas. Read more about lightning talks here. A keynote speaker on the other hand is a person with a indepth story or usercase to tell.
+Kick-ass agile teams relentlessly pursue innovation in their products and collaboration in their offices. Discover new ways to understand your end users, design a better experience for them, and work better as a team to deliver it with the sessions in this track.
 
-##### Lightning
+##### Scale
 
-* 10 min
-* New Android Camera API
-* New Job Scheduler
-* Storage Access Framework
-* Elevation & Clipping
+If you're ready to take your Atlassian deployment to the next level, these sessions are for you. Get practical tips for end-user adoption, administration, and growing your infrastructure from Atlassian teams and customers who've successfully scaled their investment in the Atlassian stack.
 
-__Tips__
+##### Service
 
-* Android Continuous Integration
-* Loaders, Cursor Adapters
+Learn how IT teams are delivering excellent (and effortless) service to their fellow employees with best practices for incident management, self-service, and knowledge management. And did you know back-office teams like HR and legal are embracing ITSM practices? This ain't your father's service desk.
 
-##### Keynote
+##### Share & Learn
 
-* 25 min
-* Dart (AngularDart, server-side)
-* Polymer and WebComponents
-* Material Design in Web
-* ChromeOS (apps development)
-* Web Performance (tools, techniques, approaches)
+Learn how Atlassian and Atlassian customers use tools and processes to connect distributed teams, share knowledge, and collaborate in real time. You know that saying about working smarter instead of working harder?... Yeah: it's like that.
 
-__Tips__
 
-* Android Continuous Integration
-* Loaders, Cursor Adapters
-* Android Animations
+#### Successful Submissions
 
+Not every submission can be selected due to tight schedule. Strong speaker submissions feature:
+
+* Actionable takeaways for attendees. What is the tangible impact of your talk on attendees and their teams?
+* Who would benefit the most from your presentation?
+* Unique or innovative application of an Atlassian product
+* Engaging, inspiring, and fun delivery
 
 #### Please submit your proposals [here](http://goo.gl/forms/rMTqzsFikD).
-__Deadline__ is September 1, 2015
 
-__Please note:__ There is no guarantee that a submission will be put onto the conference agenda!<br/>
+__Important Dates__
 
-The program committee picks the most interesting talk proposals and informs the selected submitters until September 15, 2014.<br/>
+* Call for speakers ends June 28, 2015
+* Enterprise Day 2015 agenda will be announced in August
 
-#### Any questions?
-Email organizers at [devfest@gdg.org.ua](mailto:devfest@gdg.org.ua)
+__Any questions?__
+Email us at [enterpriseday@riada.se](mailto:enterpriseday@riada.se)
