@@ -1,6 +1,6 @@
 image: "statistic.jpg"
 blocks:
- - {count: "250", specialCharacter: "+", info: "attendees", detail: "from everywhere"}
- - {count: "12", specialCharacter: "+", info: "experts", detail: "on Atlassian"}
- - {count: "6", specialCharacter: "+", info: "talks", detail: "about innovation"}
- - {count: "1", specialCharacter: "", info: "day", detail: "of workshops and learning"}
+ - {count: "150", specialCharacter: "+", info: "attendees", detail: "from everywhere"}
+ - {count: "60", specialCharacter: "+", info: "organisations", detail: "involved"}
+ - {count: "12", specialCharacter: "+", info: "talks", detail: "about bending the boundaries"}
+ - {count: "8", specialCharacter: "", info: "add-on developers", detail: "Atlassian certified"}
