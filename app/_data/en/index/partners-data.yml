@@ -1,14 +1,18 @@
 -
-  group: "General sponsor"
+  group: "Sponsors"
   elements:
-    - {name: "Atlassian", description: "Atlassian", link: "https://www.atlassian.com/", imageUrl: "atlassian-rgb-navy-medium.png"}
-    - {name: "GDG Lviv", description: "Spotify", link: "https://www.spotify.com", imageUrl: "spotify_logo_rgb_green.png"}
+    - {name: "Spotify", description: "Spotify", link: "https://www.spotify.com", imageUrl: "spotify_logo_rgb_green.png"}
+    - {name: "Klarna", description: "Klarna", link: "http://www.klarna.se", imageUrl: "Klarna-Logo.png"}
 -
-  group: "With support of"
+  group: "Participants"
   elements:
-    - {name: "Comalatech", description: "Google", link: "https://www.google.com.ua/intl/en/about/", imageUrl: "Comalatech.png", width: "120px"}
-    - {name: "Klarna", description: "GDG Lviv - Open and volunteer geek community", link: "http://lviv.gdg.org.ua", imageUrl: "Klarna-Logo.png", width: "120px"}
-    - {name: "GDG[x]", description: "GDG[x] - Yeah, we can fix that", link: "https://github.com/gdg-x", imageUrl: "brikit.png", width: "120px"}
+    - {name: "Atlassian", description: "Atlassian", link: "https://www.atlassian.com/", imageUrl: "atlassian-rgb-navy-medium.png", width: "130px"}
+    - {name: "Brikit", description: "GDG[x] - Yeah, we can fix that", link: "https://github.com/gdg-x", imageUrl: "brikit.png", width: "120px"}
+    - {name: "K15t", description: "K15t Software", link: "https://www.google.com.ua/intl/en/about/", imageUrl: "k15t-software.png", width: "120px"}
+    - {name: "Riada", description: "Riada AB", link: "https://www.riada.se", imageUrl: "riada-logo.png", width: "120px"}
+    - {name: "RefinedWiki", description: "RefinedWiki", link: "https://http://www.refinedwiki.com/", imageUrl: "refinedwiki_logo.png", width: "120px"}
+    - {name: "Tempo", description: "Tempo", link: "http://www.tempoplugin.com/", imageUrl: "tempo-logo.png", width: "120px"}
+    - {name: "Valiantsys", description: "Valiantsys", link: "http://www.valiantys.com/en/", imageUrl: "logo-valiantys.png", width: "120px"}
 -
 #  group: "Information partners"
 #  elements:
