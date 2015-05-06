@@ -6,7 +6,7 @@ offers:
   price: "2.500"
   priceCurrency: "SEK"
   ticketsNumber: "100"
-  ribbon: "-96%"
+  ribbon: "-49%"
   featured: true
   buyButtonLink: "http://goo.gl/forms/rmlL2FNzm3"
   buyButtonText: "Register now"
@@ -19,7 +19,7 @@ offers:
   price: "3.500"
   priceCurrency: "SEK"
   ticketsNumber: "100"
-  ribbon: "-40%"
+  ribbon: "-29%"
   buyButtonLink: "http://dfua.ticketforevent.com/"
   buyButtonText: "Buy Now"
   ticketContentList: ["No refunds but transfer of tickets are allowed until 23-Oct-2015.", "Billing will occur on the final sell date of your ticket type.", "Cancellations can be made for Early Bird tickets only"]

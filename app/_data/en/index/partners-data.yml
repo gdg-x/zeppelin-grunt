@@ -1,18 +1,20 @@
 -
-  group: "Sponsors"
-  elements:
-    - {name: "Spotify", description: "Spotify", link: "https://www.spotify.com", imageUrl: "spotify_logo_rgb_green.png"}
-    - {name: "Klarna", description: "Klarna", link: "http://www.klarna.se", imageUrl: "Klarna-Logo.png"}
+#  group: "Sponsors"
+#  elements:
 -
-  group: "Participants"
+#  group: "Participants"
   elements:
     - {name: "Atlassian", description: "Atlassian", link: "https://www.atlassian.com/", imageUrl: "atlassian-rgb-navy-medium.png", width: "130px"}
     - {name: "Brikit", description: "GDG[x] - Yeah, we can fix that", link: "https://github.com/gdg-x", imageUrl: "brikit.png", width: "120px"}
+    - {name: "Tempo", description: "Tempo", link: "http://www.tempoplugin.com/", imageUrl: "Comalatech.png", width: "120px"}
     - {name: "K15t", description: "K15t Software", link: "https://www.google.com.ua/intl/en/about/", imageUrl: "k15t-software.png", width: "120px"}
-    - {name: "Riada", description: "Riada AB", link: "https://www.riada.se", imageUrl: "riada-logo.png", width: "120px"}
+    - {name: "Klarna", description: "Klarna", link: "http://www.klarna.se", imageUrl: "Klarna-Logo.png", width: "130px"}
+    - {name: "Saab", description: "Saab", link: "http://www.saab.com", imageUrl: "saab-logo.png", width: "120px"}
+    - {name: "Spotify", description: "Spotify", link: "https://www.spotify.com", imageUrl: "spotify_logo_rgb_green.png", width: "130px"}
     - {name: "RefinedWiki", description: "RefinedWiki", link: "https://http://www.refinedwiki.com/", imageUrl: "refinedwiki_logo.png", width: "120px"}
-    - {name: "Tempo", description: "Tempo", link: "http://www.tempoplugin.com/", imageUrl: "tempo-logo.png", width: "120px"}
-    - {name: "Valiantsys", description: "Valiantsys", link: "http://www.valiantys.com/en/", imageUrl: "logo-valiantys.png", width: "120px"}
+    - {name: "Unibet", description: "Unibet", link: "https://www.unibet.com/start", imageUrl: "unibet-logo.png", width: "120px"}
+#    - {name: "Valiantsys", description: "Valiantsys", link: "http://www.valiantys.com/en/", imageUrl: "logo-valiantys.png", width: "120px"}
+# saab unibet
 -
 #  group: "Information partners"
 #  elements:

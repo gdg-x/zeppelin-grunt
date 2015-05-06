@@ -2,7 +2,7 @@ links:
  - {permalink: "/#about", text: "Why Attend"}
  - {permalink: "/#", text: "Schedule (TBA)"}
  - {permalink: "/#", text: "Speakers (TBA)"}
- - {link: "http://goo.gl/forms/C1hqZBv1gW", text: "Become Sponsor"}
+ - {link: "http://goo.gl/forms/C1hqZBv1gW", text: "Call for speakers"}
  - {permalink: "/#tickets", text: "Register"}
  -
    subText: "Social"
@@ -11,6 +11,6 @@ links:
     - {link: "https://twitter.com/riadaab", text: "@RiadaAB"}
     - {link: "https://www.facebook.com/RiadaAB", text: "Riada Ab"}
 bottomLinks:
- - {link: "http://goo.gl/forms/18YZSyQ7Qm", text: "Become a speaker"}
+ - {link: "http://goo.gl/forms/18YZSyQ7Qm", text: "Call for speakers"}
 rightButtons:
- - {link: "http://goo.gl/forms/18YZSyQ7Qm", text: "Become a speaker"}
+ - {link: "http://goo.gl/forms/18YZSyQ7Qm", text: "Call for speakers"}

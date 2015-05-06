@@ -4,5 +4,6 @@ eventDate: "18, November"
 typeoutTextValues: '"", "Bending the boundaries", "with Atlassian software", "inspiring keynotes", "JIRA"'
 typeoutFallback: "Bending the boundaries"
 buttons:
- - {link: "http://goo.gl/forms/18YZSyQ7Qm", text: "Become a speaker"}
+ - {link: "http://goo.gl/forms/18YZSyQ7Qm", text: "Call for speakers"}
+ - {link: "http://goo.gl/forms/Hh92DQSA5J", text: "Sponsor"}
  - {permalink: "/#tickets", text: "Register for Enterprise Day"}

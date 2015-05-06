@@ -12,7 +12,7 @@ blocks:
  -
   title: "Contacts"
   links:
-   - {link: "mailto:info@riada.se", text: "info@riada.se"}
+   - {link: "mailto:enterpriseday@riada.se", text: "enterpriseday@riada.se"}
  -
   title: "FAQ"
   links:
