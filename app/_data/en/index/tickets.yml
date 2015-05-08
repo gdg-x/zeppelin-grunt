@@ -36,7 +36,7 @@ offers:
   buyButtonLink: "http://dfua.ticketforevent.com/"
   buyButtonText: "Buy Now"
 #  additionalInfo: "Requires a valid student ID at the conference check in. Without student ID at the check in, ticket will be cancelled without refund"
-  ticketContentList: ["No refunds but transfer of tickets are allowed until 23-Oct-2015.", "Billing will occur on the final sell date of your ticket type.", "Cancellations can be made for Early Bird tickets only"]
+  ticketContentList: ["No refunds, no transfer", "Billing will occur on the final sell date of your ticket type.", "Cancellations can be made for Early Bird tickets only"]
   validFrom: "2014-08-20T10:00"
   validThrough: "2014-10-23T23:59"
   info: "Before 23 October 2014 23:59 or 50 tickets"

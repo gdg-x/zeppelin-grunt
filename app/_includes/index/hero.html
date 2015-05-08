@@ -3,11 +3,13 @@
     {% include general/navigation.html %}
     <div class="content-wrapper">
     <div class="jumbotron">
+        <p>{{ site.data.[site.lang].index.hero.eventDate }}</p>
         {% assign heroText = site.data.[site.lang].index.hero.title | split:"<typeout>" %}
         <h1>{{ heroText[0] }}<br></h1><h2><span id="typeout-text" class="hidden-xs"></span><span class="typeout-fallback">{{ site.data.[site.lang].index.hero.typeoutFallback }}</span>{{ heroText[1] }}</h2><br>
-        <!--<p>{{ site.data.[site.lang].index.hero.eventDate }}</p>-->
+
         <!--<img src="img/other/atlassianproducts_white-s1.png"><br>
         <img src="img/other/atlassianproducts_white-s2.png"><br>-->
+                <p style="margin-top:0px;">JIRA | Confluence | HipChat | Bitbucket | Stash | JIRA Service Desk</p> 
 
             {% for button in site.data.[site.lang].index.hero.buttons %}
         <a style="margin-bottom:10px;" href="{% if button.permalink != null %} {{ button.permalink | prepend: site.baseurl }} {% else %} {{ button.link }} {% endif %}" class="btn btn-primary waves-effect waves-button waves-light waves-float" {% if button.link != null %}target="_blank"{% endif %}>{{ button.text }}</a>

@@ -1,6 +1,6 @@
 image: "hero.jpg"
-title: "Enterprise Day 2015"
-eventDate: "18, November"
+title: "Enterprise Day"
+eventDate: "18 November, 2015"
 typeoutTextValues: '"", "Bending the boundaries", "with Atlassian software", "inspiring keynotes", "JIRA"'
 typeoutFallback: "Bending the boundaries"
 buttons:
