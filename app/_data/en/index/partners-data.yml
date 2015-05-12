@@ -1,8 +1,9 @@
 -
-#  group: "Sponsors"
-#  elements:
+  group: "Gold Sponsor 2015"
+  elements: 
+    - {name: "RefinedWiki", description: "RefinedWiki", link: "https://http://www.refinedwiki.com/", imageUrl: "refinedwiki_logo.png"} 
 -
-#  group: "Participants"
+  group: "Last year's speakers"
   elements:
     - {name: "Atlassian", description: "Atlassian", link: "https://www.atlassian.com/", imageUrl: "atlassian-rgb-navy-medium.png", width: "130px"}
     - {name: "Brikit", description: "GDG[x] - Yeah, we can fix that", link: "https://github.com/gdg-x", imageUrl: "brikit.png", width: "120px"}
