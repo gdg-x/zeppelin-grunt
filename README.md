@@ -63,8 +63,12 @@ permalink: '/blog/:title'
 #### More documentation you can find [here](https://github.com/gdg-x/zeppelin-grunt/wiki).
 
 ### Who is using template?
+Going to use template? Go on! The only thing we ask - let us know at [*lviv@gdg.org.ua*](mailto:lviv@gdg.org.ua) so we can include you to this list, or make a pull request.
+
 View [known sites](https://github.com/gdg-x/zeppelin#who-is-using-template) that use the original project.
 
+| [Android Developer Days 2015](http://www.androiddeveloperday.com/2015/) |  |  |
+|-----------------------------|-----------------------------|-----------------------------|
 ### Used libraries
 * [Bootstrap Sass](https://github.com/twbs/bootstrap-sass)
 * [Animate.css Sass](https://github.com/tgdev/animate-sass)
