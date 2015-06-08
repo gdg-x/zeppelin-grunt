@@ -27,7 +27,7 @@ offers:
   validThrough: "2014-10-23T23:59"
   info: "150 tickets"
   disabled: true
-  fallback: "Ticket sales will begin on 1 August 2015"
+  fallback: "Ticket sales will begin on 1 July 2015"
  -
   name: "Last Chance"
   price: "4.900"
