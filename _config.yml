@@ -14,7 +14,7 @@ show_drafts: true
 markdown: kramdown
 
 # Site settings
-baseurl: "/zeppelin-grunt"
+baseurl: "/enterpriseday"
 url: "https://riada.se"
 permalink: '/blog/:title'
 
