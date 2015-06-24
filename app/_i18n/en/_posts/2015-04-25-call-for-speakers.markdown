@@ -38,10 +38,5 @@ Not every submission can be selected due to tight schedule. Strong speaker submi
 
 #### Please submit your proposals [here](http://goo.gl/forms/rMTqzsFikD).
 
-__Important Dates__
-
-* Call for speakers ends June 28, 2015
-* Enterprise Day 2015 agenda will be announced in August
-
 __Any questions?__
 Email us at [enterpriseday@riada.se](mailto:enterpriseday@riada.se)

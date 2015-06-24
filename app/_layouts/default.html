@@ -80,6 +80,10 @@
                         });
                     }
                 });
+                function tick(){
+                    $('#testomonial-ticker li:first').slideUp( function () { $(this).appendTo($('#testomonial-ticker')).slideDown(); });
+                }
+                setInterval(function(){ tick () }, 8000);
                 var rockstarSpeakers = [
                     {% for speaker in site.data.[site.lang].speakers.speakers-data %}
                         {% if speaker.rockstar %}

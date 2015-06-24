@@ -1,42 +1,39 @@
 -
-  id: 3
+  id: 1
   name: "Tommy"
   surname: "Nordahl"
   company: "Riada AB"
   title: "CEO"
   bio: "Tommy är vår grundare och VD. Han arbetar främst med ledning och sälj."
   thumbnailUrl: TommyNordahl.jpg
-  rockstar: false
-  social:
-    - {name: "google-plus", link: "https://plus.google.com/+DawidOstrowski/"}
--
-  id: 4
-  name: "Feico"
-  surname: "Mol"
-  company: "Atlassian"
-  title: "Experts Partner Manager"
-  bio: '<p>Developer. Nominated to apply for the <a href="http://goo.gl/V7qHc">Google Developer Expert Program</a>. Finalist of <a href="http://goo.gl/HO2kLf">Google Apps Developer Challenge 2012</a>. Author of open source <a href="http://goo.gl/Sp5Pel">libraries</a> 1000+ stars. Writer. When Dmytro has free time he is writing <a href="http://goo.gl/AoOVru">technical articles</a>. Speaker. Always trying to share his knowledge &amp; experience on different <a href="http://goo.gl/PNolZY">events</a>. Big fan of android, flat design, stackoverflow, git, Intellij IDEA. Eclipse IDE hater.</p>'
-  thumbnailUrl: FeicoMol.jpg
-  rockstar: true
-  social:
-    - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
-    - {name: "twitter", link: "https://twitter.com/dmytrodanylyk"}
-    - {name: "github", link: "https://github.com/dmytrodanylyk"}
--
-  id: 5
-  name: "Svante"
-  surname: "Gustafsson"
-  company: "Riada AB"
-  title: "Stash Guru"
-  bio: "Svante has deep knowledge in CM and is right now working with consulting within Atlassian products."
-  thumbnailUrl: SvanteGustafsson.jpg
   rockstar: true
   ribbon:
-    - {abbr: "GDE", title: "Google Developer Expert", url: "https://developers.google.com/experts/"}
-    - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/107562802227561437057/"}
+    - {abbr: "KNS", title: "Keynote Speaker", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
   social:
-    - {name: "google-plus", link: "https://plus.google.com/+MateuszHerych"}
-    - {name: "twitter", link: "https://twitter.com/mherych"}
+    - {name: "google-plus", link: "https://plus.google.com/108144231093719284582/posts/YsbE1gTYoyV"}
+    - {name: "linkedin", link: "https://se.linkedin.com/in/tommynordahl"}
+-
+  id: 2
+  name: "Eduardo"
+  surname: "Llanos"
+  company: "Tacton"
+  title: "Agile Project Manager Consultant"
+  bio: "Eduardo is an agile project manager consultant specialized in handling IT projects. He has introduced a number of Atlassian products into organizations to solve problems and needs. (ex: Intranet, Knowledge Base, JIRA, Project Tools) "
+  thumbnailUrl: EduardoLlanos.jpg
+  rockstar: true
+  social:
+    - {name: "linkedin", link: "https://se.linkedin.com/in/eduardollanos"}
+-
+  id: 3
+  name: "Maggie"
+  surname: "Modersohn"
+  company: "Brikit"
+  title: "Agile Project Manager Consultant"
+  bio: "Amsterdam-based timezone and language juggler on a mission to bring distributed teams to work and serve Brikit's ever growing customer base."
+  thumbnailUrl: MaggieModersohn.jpg
+  rockstar: true
+  social:
+    - {name: "linkedin", link: "https://se.linkedin.com/in/eduardollanos"}
 -
   id: 6
   name: "Rick"
@@ -47,7 +44,8 @@
   thumbnailUrl: RickWacey.jpeg
   rockstar: true
   ribbon:
-    - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
+    - {abbr: "KNS", title: "Keynote", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
+    - {abbr: "AAD", title: "Atlassian Add-on Developer", url: "https://marketplace.atlassian.com/"}
   social:
     - {name: "google-plus", link: "https://plus.google.com/+RomanMazur/"}
     - {name: "twitter", link: "http://twitter.com/roman_mazur"}

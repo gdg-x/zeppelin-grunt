@@ -1,0 +1,9 @@
+image: "twitter-feed.jpg"
+title: "Testomonials"
+hashTag: "enterpriseday"
+typeoutTextValues: '"", "I would like more of everything actually but the mix was really good. I enjoyed the BoF sessions a lot more than I expected.", "with Atlassian software", "inspiring keynotes", "JIRA"'
+typeoutFallback: "Bending the boundaries"
+buttons:
+ - {link: "http://goo.gl/forms/18YZSyQ7Qm", text: "Call for speakers"}
+ - {link: "http://goo.gl/forms/Hh92DQSA5J", text: "Sponsor"}
+ - {permalink: "/#tickets", text: "Register for Enterprise Day"}

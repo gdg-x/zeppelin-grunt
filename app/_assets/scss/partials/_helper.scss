@@ -12,6 +12,9 @@
         color: rgba(51, 51, 51, .6);
         border-color: rgba(51, 51, 51, .6);
     }
+    &.fat-border {
+        padding:30px;
+    }
 }
 .colored {
     color: $primary-color;
@@ -132,5 +135,8 @@
 @media (max-width: 920px) {
     .no-mobile {
     display:none !important;
+    }
+    .conference-day {
+        margin-top:70px;
     }
 }

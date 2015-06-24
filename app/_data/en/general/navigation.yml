@@ -1,4 +1,5 @@
 links:
+ - {permalink: "/#agenda", text: "Agenda"}
  - {permalink: "/#about", text: "Why Attend"}
  - {permalink: "/#", text: "Schedule (TBA)"}
  - {permalink: "/#", text: "Speakers (TBA)"}
