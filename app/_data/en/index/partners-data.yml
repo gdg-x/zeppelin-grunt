@@ -1,7 +1,12 @@
 -
   group: "Gold Sponsor 2015"
-  elements: 
-    - {name: "RefinedWiki", description: "RefinedWiki", link: "http://www.refinedwiki.com/", imageUrl: "refinedwiki_logo.png"} 
+  elements:
+    - {name: "RefinedWiki", description: "RefinedWiki", link: "http://www.refinedwiki.com/", imageUrl: "refinedwiki_logo.png"}
+-
+-
+  group: "Silver Sponsor 2015"
+  elements:
+    - {name: "Informator", description: "Informator", link: "http://informator.se//", imageUrl: "informator.png"}
 -
   group: "Last year's speakers"
   elements:
