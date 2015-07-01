@@ -2,20 +2,6 @@ title: "Pricetable"
 #info: "Tickets grant access to all conference sections, coffee brakes, lunch and party. Accommodation is NOT included in the ticket price."
 offers:
  -
-  name: "Early Bird"
-  price: "2.500"
-  priceCurrency: "SEK"
-  ticketsNumber: "100"
-  ribbon: "-49%"
-  buyButtonLink: "http://goo.gl/forms/rmlL2FNzm3"
-  buyButtonText: "Sold out!"
-  ticketContentList: ["Only a limited amount of early bird tickets avaliable for sale.", "Billing will occur on the final sell date of your ticket type.", "Last cancellation date is 30-Jun-2015."]
-  validFrom: "2015-08-25T10:00"
-  validThrough: "2014-09-30T23:59"
-  info: "Before 30 June 2015 or 50 tickets"
-  disabled: true
-  fallback: "No longer avaliable"
- -
   name: "Regular"
   price: "3.500"
   priceCurrency: "SEK"
@@ -24,10 +10,9 @@ offers:
   featured: true
   buyButtonLink: "http://goo.gl/forms/rmlL2FNzm3"
   buyButtonText: "Buy Now"
-  ticketContentList: ["No refunds but transfer of tickets are allowed until 23-Oct-2015.", "Billing will occur on the final sell date of your ticket type.", "Cancellations can be made for Early Bird tickets only"]
+  ticketContentList: ["No refunds but transfer of tickets are allowed until 23-Oct-2015.", "Billing will occur on the final sell date of your ticket type.", "Non-refundable ticket"]
   validFrom: "2014-10-01T00:00"
   validThrough: "2014-10-23T23:59"
-  info: "150 tickets"
   fallback: "Register now!"
  -
   name: "Last Chance"
@@ -37,7 +22,7 @@ offers:
   buyButtonLink: "http://dfua.ticketforevent.com/"
   buyButtonText: "Buy Now"
 #  additionalInfo: "Requires a valid student ID at the conference check in. Without student ID at the check in, ticket will be cancelled without refund"
-  ticketContentList: ["No refunds, no transfer", "Billing will occur on the final sell date of your ticket type.", "Cancellations can be made for Early Bird tickets only"]
+  ticketContentList: ["No refunds, no transfer", "Billing will occur on the final sell date of your ticket type.", "Non-refundable ticket"]
   validFrom: "2014-08-20T10:00"
   validThrough: "2014-10-23T23:59"
   info: "Before 23 October 2014 23:59 or 50 tickets"
