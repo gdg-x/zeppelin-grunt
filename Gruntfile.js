@@ -127,6 +127,7 @@ module.exports = function(grunt) {
                 files: {
                     '.tmp/<%= app.baseurl %>/js/libraries.js': [
                         'bower_components/sticky-kit/jquery.sticky-kit.js',
+                        'bower_components/svg4everybody/svg4everybody.js',
                         'bower_components/typed.js/js/typed.js',
                         'bower_components/waves/dist/waves.js',
                         '<%= app.source %>/_assets/js/vendor/jquery.appear.js',
@@ -147,6 +148,7 @@ module.exports = function(grunt) {
                 files: {
                     '<%= app.dist %>/<%= app.baseurl %>/js/libraries.js': [
                         'bower_components/sticky-kit/jquery.sticky-kit.js',
+                        'bower_components/svg4everybody/svg4everybody.js',
                         'bower_components/typed.js/js/typed.js',
                         'bower_components/waves/dist/waves.js',
                         '<%= app.source %>/_assets/js/vendor/jquery.appear.js',
@@ -261,9 +263,16 @@ module.exports = function(grunt) {
         },
         svgmin: {
             options: {
-                plugins: [{
-                    cleanupIDs: false
-                }]
+                plugins: [
+                    {
+                        cleanupIDs: false
+                    },
+                        collapseGroups: false
+                    },
+                    {
+                        addClassesToSVGElement: false
+                    }
+                ]
             },
             dist: {
                 files: [{

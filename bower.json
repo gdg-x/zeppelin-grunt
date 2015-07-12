@@ -6,6 +6,7 @@
         "bootstrap-sass": "3.3.4",
         "typed.js": "*",
         "sticky-kit": "1.1.1",
-        "waves": "0.6.2"
+        "waves": "0.6.2",
+        "svg4everybody": "1.0.0"
     }
 }
