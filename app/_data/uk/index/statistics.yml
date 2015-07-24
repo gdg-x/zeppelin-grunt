@@ -1,6 +1,0 @@
-image: "statistic.jpg"
-blocks:
- - {count: "350", specialCharacter: "+", info: "учасників", detail: "звідусіль"}
- - {count: "48", specialCharacter: "+", info: "годин", detail: "чистих Google технологій"}
- - {count: "20", specialCharacter: "+", info: "доповідачів", detail: "з України та зарубіжжя"}
- - {count: "3", specialCharacter: "", info: "паралельних потоки", detail: "плюс розважальна зона"}
