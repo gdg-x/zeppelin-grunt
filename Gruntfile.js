@@ -265,12 +265,13 @@ module.exports = function(grunt) {
             options: {
                 plugins: [
                     {
-                        cleanupIDs: false
+                        cleanupIDs : false
                     },
+                    {
                         collapseGroups: false
                     },
                     {
-                        addClassesToSVGElement: false
+                        addClassesToSVGElement : false
                     }
                 ]
             },
