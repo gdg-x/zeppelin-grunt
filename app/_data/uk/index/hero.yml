@@ -1,8 +1,0 @@
-image: "hero.jpg"
-title: "GDG DevFest <typeout> 2014"
-eventDate: "Вересень - Листопад, 2014"
-typeoutTextValues: '"", "Слава Україні", "Героям Cлава"'
-typeoutFallback: "Слава Україні"
-buttons:
- - {link: "http://bit.ly/dfua-c4p", text: "Стати доповідачем"}
- - {permalink: "/#tickets", text: "Придбати квиток"}
