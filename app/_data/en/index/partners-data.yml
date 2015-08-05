@@ -6,7 +6,8 @@
 -
   group: "Silver Sponsor 2015"
   elements:
-    - {name: "Informator", description: "Informator", link: "http://informator.se//", imageUrl: "informator.png"}
+    - {name: "Informator", description: "Informator", link: "http://informator.se//", imageUrl: "informator.png", height: "80px"}
+    - {name: "Tempo", description: "Tempo", link: "http://www.tempoplugin.com///", imageUrl: "tempologo-horizontal.png"}
 -
   group: "Last year's speakers"
   elements:
