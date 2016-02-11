@@ -81,5 +81,11 @@ View [known sites](https://github.com/gdg-x/zeppelin#who-is-using-template) that
 ### Contributors
 Created by [Oleh Zasadnyy](https://github.com/ozasadnyy), [GDG Lviv](https://plus.google.com/102444623953913144164).
 
+See [list of contributors](https://github.com/gdg-x/zepplin-grunt/graphs/contributors).
+
+Maintainer: [@ozasadnyy](https://github.com/ozasadnyy).
+
+######GDG Apps, GDG[x] are not endorsed and/or supported by Google, the corporation.
+
 ### License
 Project is published under the [MIT license](https://github.com/ozasadnyy/zeppelin-grunt/blob/master/LICENSE). Feel free to clone and modify repo as you want, but don't forget to add reference to authors :)
