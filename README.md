@@ -81,5 +81,7 @@ View [known sites](https://github.com/gdg-x/zeppelin#who-is-using-template) that
 ### Contributors
 Created by [Oleh Zasadnyy](https://github.com/ozasadnyy), [GDG Lviv](https://plus.google.com/102444623953913144164).
 
+Maintainer: [@ozasadnyy](https://github.com/ozasadnyy).
+
 ### License
 Project is published under the [MIT license](https://github.com/ozasadnyy/zeppelin-grunt/blob/master/LICENSE). Feel free to clone and modify repo as you want, but don't forget to add reference to authors :)
