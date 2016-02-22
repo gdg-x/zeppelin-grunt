@@ -38,35 +38,35 @@
         //     "email" : "{{ site.data.[site.lang].general.basic.organizerEmail }}",
         //     "sameAs" : "{{ site.data.[site.lang].general.basic.organizerLink }}"
         // },
-        "subEvent" : {
-            "@type" : "Event",
-            "name" : "{{ site.data.[site.lang].hackathon.about.title }}",
-            "description": "{{ site.data.[site.lang].hackathon.about.rows[0].details }}",
-            "image" : "{{ site.data.[site.lang].general.basic.socialImageSrcGooglePlus | prepend: site.baseurl | prepend: site.url }}",
-            "url" : "{{ site.url | append: site.baseurl }}/hackathon/",
-            "startDate" : "{{ site.data.[site.lang].hackathon.location.startTime }}",
-            "doorTime" : "{{ site.data.[site.lang].hackathon.location.doorTime }}",
-            "endDate" : "{{ site.data.[site.lang].hackathon.location.endTime }}",
-            "location" : {
-                "@type" : "Place",
-                "name" : "{{ site.data.[site.lang].hackathon.location.name }}",
-                "sameAs" : "{{ site.data.[site.lang].hackathon.location.link }}",
-                "address" : {
-                    "@type" : "PostalAddress",
-                    "streetAddress" : "{{ site.data.[site.lang].hackathon.location.streetAddress }}",
-                    "addressLocality" : "{{ site.data.[site.lang].hackathon.location.addressLocality }}",
-                    "addressRegion" : "{{ site.data.[site.lang].hackathon.location.addressLocalityRegion }}",
-                    "postalCode" : "{{ site.data.[site.lang].hackathon.location.postalCode }}",
-                    "addressCountry" : "{{ site.data.[site.lang].hackathon.location.addressCountry }}"
-                },
-                "geo" : {
-                    "@type" : "GeoCoordinates",
-                    {% assign hackathonCoordinates = site.data.[site.lang].hackathon.location.placeCoordinates | split:"," %}
-                    "latitude" : "{{ hackathonCoordinates[0] }}",
-                    "longitude" : "{{ hackathonCoordinates[1] }}"
-                }
-            }
-        },
+        // "subEvent" : {
+        //     "@type" : "Event",
+        //     "name" : "{{ site.data.[site.lang].hackathon.about.title }}",
+        //     "description": "{{ site.data.[site.lang].hackathon.about.rows[0].details }}",
+        //     "image" : "{{ site.data.[site.lang].general.basic.socialImageSrcGooglePlus | prepend: site.baseurl | prepend: site.url }}",
+        //     "url" : "{{ site.url | append: site.baseurl }}/hackathon/",
+        //     "startDate" : "{{ site.data.[site.lang].hackathon.location.startTime }}",
+        //     "doorTime" : "{{ site.data.[site.lang].hackathon.location.doorTime }}",
+        //     "endDate" : "{{ site.data.[site.lang].hackathon.location.endTime }}",
+        //     "location" : {
+        //         "@type" : "Place",
+        //         "name" : "{{ site.data.[site.lang].hackathon.location.name }}",
+        //         "sameAs" : "{{ site.data.[site.lang].hackathon.location.link }}",
+        //         "address" : {
+        //             "@type" : "PostalAddress",
+        //             "streetAddress" : "{{ site.data.[site.lang].hackathon.location.streetAddress }}",
+        //             "addressLocality" : "{{ site.data.[site.lang].hackathon.location.addressLocality }}",
+        //             "addressRegion" : "{{ site.data.[site.lang].hackathon.location.addressLocalityRegion }}",
+        //             "postalCode" : "{{ site.data.[site.lang].hackathon.location.postalCode }}",
+        //             "addressCountry" : "{{ site.data.[site.lang].hackathon.location.addressCountry }}"
+        //         },
+        //         "geo" : {
+        //             "@type" : "GeoCoordinates",
+        //             {% assign hackathonCoordinates = site.data.[site.lang].hackathon.location.placeCoordinates | split:"," %}
+        //             "latitude" : "{{ hackathonCoordinates[0] }}",
+        //             "longitude" : "{{ hackathonCoordinates[1] }}"
+        //         }
+        //     }
+        // },
         "offers" : [
         {% for ticketsOffer in site.data.[site.lang].index.tickets.ticketsOffers %}
         {

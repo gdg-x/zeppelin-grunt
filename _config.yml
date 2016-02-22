@@ -19,5 +19,5 @@ url: "http://gdg-eskisehir.github.io"
 permalink: '/blog/:title'
 
 # i18n
-languages: ["en", "uk"]
+languages: ["en", "tr"]
 exclude_from_localizations: ["js", "img", "css"]
