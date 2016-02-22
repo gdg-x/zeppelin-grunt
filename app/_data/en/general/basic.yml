@@ -1,33 +1,33 @@
 # Site Settings
-title: "WTM Eskisehir 2016"
-email: "gdgeskisehir@gmail.com"
+title: "GDG DevFest Season 2014"
+email: "devfest@gdg.org.ua"
 description: "GDG DevFest is a set of events all around the world"
 enablePreloader: false
 
 # Head
-metaKeywords: "gdg, wtm, iwd, iwd16, eskisehir, gdgesk, wtmesk, gdgeskisehir, wtmeskisehir, developers"
-twitterAccount: "@WTMEsk"
+metaKeywords: "event, gdg, devfest, google, programming, android, chrome, developers, lviv"
+twitterAccount: "@DevFest"
 socialImageSrcGooglePlus: "/img/seo/sharing-google-plus.png"
 socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
 socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
-themeColor: "#62c3a7"
+themeColor: "#03a9f4"
 
 # Organizer Info
-organizerName: "WTM Eskişehir"
-organizerAlternateName: "Women Techmakers Eskişehir"
+organizerName: "GDG Lviv"
+organizerAlternateName: "Google Developer Group Lviv"
 organizerDescription: "Open and volunteer geek communities who create exciting projects and share experience about Google technology with passion."
-organizerEmail: "gdgeskisehir@gmail.com"
+organizerEmail: "lviv@gdg.org.ua"
 organizerLogo: "/img/seo/organizer-logo.png"
-organizerLink: "http://gdgeskisehir.org/"
+organizerLink: "http://lviv.gdg.org.ua/"
 
 # Documents
 c4pUrl: "http://bit.ly/dfua-c4p"
-c4pButton: "Konuşmacı olun!"
+c4pButton: "Become a speaker"
 
 # Varibles
-googleAnalyticsTrackingId: "UA-50568325-5"
-webtoolsSiteVerification: "i8R5zX05Bgc-2tCE3c8asYA8y2jT4ZkixY3695hsbeg"
-disqusShortName: ""
+googleAnalyticsTrackingId: "UA-43643469-7"
+webtoolsSiteVerification: "b9imDOrFawXaBXCC4r3uJDdswSYcalD-wWpMYhFq-no"
+disqusShortName: "devfestua"
 
 # i18n
 languages:

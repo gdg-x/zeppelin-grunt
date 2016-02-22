@@ -1,18 +1,16 @@
 links:
- - {permalink: "/", text: "Головна"}
- - {permalink: "/blog/", text: "Блог"}
- - {permalink: "/schedule/", text: "Розклад"}
- - {permalink: "/speakers/", text: "Доповідачі"}
- - {permalink: "/team/", text: "Команда"}
- - {permalink: "/logistics/", text: "Логістика"}
- - {permalink: "/hackathon/", text: "Хакатон"}
+ - {permalink: "/", text: "Anasayfa"}
+ - {permalink: "/schedule/", text: "Program"}
+ - {permalink: "/speakers/", text: "Konuşmacılar"}
+ - {permalink: "/team/", text: "Takım"}
+ - {permalink: "/logistics/", text: "Ulaşım"}
  - 
-   subText: "Соціальні мережі"
+   subText: "Sosyal"
    links:
-    - {link: "https://plus.google.com/102444623953913144164", text: "+GDGLviv"}
-    - {link: "https://twitter.com/intent/user?screen_name=GDGLviv", text: "@GDGLviv"}
-    - {link: "https://facebook.com/GDGLviv", text: "GDGLviv"}
+    - {link: "https://plus.google.com/communities/105208222047536298318", text: "+WomenTechmakersEskisehir"}
+    - {link: "https://twitter.com/intent/user?screen_name=WTMEsk", text: "@WTMEsk"}
+    - {link: "https://www.facebook.com/WomenTechmakersEskisehir", text: "WomenTechmakersEskisehir"}
 bottomLinks:
- - {link: "http://bit.ly/dfua-c4p", text: "Стати доповідачем"}
+ - {link: "http://bit.ly/dfua-c4p", text: "Konuşmacı olun!"}
 rightButtons:
- - {link: "http://bit.ly/dfua-c4p", text: "Стати доповідачем"}
+ - {link: "http://bit.ly/dfua-c4p", text: "Konuşmacı olun!"}

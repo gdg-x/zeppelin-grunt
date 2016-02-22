@@ -1,5 +1,5 @@
-title: "Про GDG DevFest"
+title: "WTM Eskişehir 2016'da"
 blocks:
- - {title: "Конференція", image: "conference.jpg", text: "GDG DevFest Ukraine 2014 — найбільша в Україні подія, пов’язана з технологіями Google, організована GDG ком'юніті! Чудові доповідачі, море позитиву!" }
- - {title: "Воркшопи", image: "workshop.jpg", text: "Цілий день семінарів, практичного досвіду, хакінгу та налагодження коду.  Прийдіть та оберіть свою технологію!" }
- - {title: "Хакатон", image: "hackathon.jpg", text: "Цілий день хакатон на довільну тему! Хочете справжнього тім-білдінку в п'ятницю? Зберіть команду та долучайтеся до хакатону!" }
+ - {title: "Conference", image: "conference.jpg", text: "The biggest Google related event in the country carefully crafted for you by GDG community! Awesome speakers and lots of fun!" }
+ - {title: "Workshops", image: "workshop.jpg", text: "Full-day of workshops, hands-on experience, hacking and debugging. Come and tame your favourite technology!" }
+ - {title: "Hackathon", image: "hackathon.jpg", text: "Full-day freestyle hackathon! Want some real team building on friday? Grab your team and join our hackathon!" }

@@ -1,20 +1,19 @@
-languagesTitle: "Мови"
+languagesTitle: "Languages"
 socialLinks:
- - {link: "https://plus.google.com/102444623953913144164", icon: "google-plus"}
- - {link: "https://twitter.com/intent/user?screen_name=GDGLviv", icon: "twitter"}
- - {link: "https://facebook.com/GDGLviv", icon: "facebook"}
+ - {link: "https://plus.google.com/communities/105208222047536298318", icon: "google-plus"}
+ - {link: "https://twitter.com/intent/user?screen_name=WTMEsk", icon: "twitter"}
+ - {link: "https://facebook.com/WomenTechmakersEskisehir", icon: "facebook"}
  - {permalink: "/feed.xml", icon: "rss"}
 blocks:
  -
-  title: "Посилання"
+  title: "Links"
   links:
-   - {link: "http://gdg.org.ua", text: "GDG.org.ua"}
+   - {link: "http://gdgeskisehir.org", text: "GDG Eskişehir"}
    - {link: "https://developers.google.com", text: "Google Developers"}
  -
-  title: "Контакти"
+  title: "Contacts"
   links:
-   - {link: "mailto:lviv@gdg.org.ua", text: "lviv@gdg.org.ua"}
+   - {link: "mailto:gdgeskisehir@gmail.com", text: "gdgeskisehir@gmail.com"}
  -
-  title: "Поширені питання"
+  title: "FAQ"
   links:
-   - {permalink: "/cod/", text: "Норми поведінки"}
