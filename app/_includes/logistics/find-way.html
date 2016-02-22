@@ -12,7 +12,7 @@
             </div>
             <div class="location-result">
                 <span id="result-name" class="result-name"></span>
-                <span>to DevFest</span>
+                <span>{{ site.data.[site.lang].logistics.find-way.toDevfest }}</span>
                 <svg id="direction-cancel" class="icon icon-cross" viewBox="0 0 30 32">
                     <use xlink:href="{{ site.baseurl_root }}/img/sprites/sprites.svg#icon-cross"></use>
                 </svg>
@@ -42,7 +42,10 @@
                 </li>
             </ul>
             <div class="clearfix"></div>
-            <a href="http://maps.google.com/maps?ll={{ site.data.[site.lang].index.location-map.placeCoordinates | replace:' ',''}}&z=17&t=m&hl=en-US&gl=US&mapclient=embed&q={{ site.data.[site.lang].index.location-map.streetAddress | replace:' ','%20' | replace:',','%2C'}}%2C%20{{ site.data.[site.lang].index.location-map.addressLocality | replace:' ','%20' | replace:',','%2C'}}" class="view-on-map" target="_blank">{{ site.data.[site.lang].index.location-map.viewOnMap }}</a>
+            <a href="https://www.google.com/maps/place//@{{ site.data.[site.lang].index.location-map.placeCoordinates | replace:' ',''}},19z/data=!3m1!4b1!4m2!3m1!1s0x0:0x0" class="view-on-map" target="_blank">{{ site.data.[site.lang].logistics.find-way.viewOnMap }}</a>
+            {% comment %}
+            <a href="http://maps.google.com/maps?ll={{ site.data.[site.lang].index.location-map.placeCoordinates | replace:' ',''}}&z=17&t=m&hl=en-US&gl=US&mapclient=embed&q={{ site.data.[site.lang].index.location-map.streetAddress | replace:' ','%20' | replace:',','%2C'}}%2C%20{{ site.data.[site.lang].index.location-map.addressLocality | replace:' ','%20' | replace:',','%2C'}}" class="view-on-map" target="_blank">{{ site.data.[site.lang].logistics.find-way.viewOnMap }}</a>
+            {% endcomment %}
         </div>
     </div>
 </section>

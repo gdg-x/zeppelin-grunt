@@ -7,5 +7,6 @@ transit: "Toplu taşıma"
 findFlight: "Uçuş bul"
 viewOnMap: "Google Maps'de görüntüle"
 mapCenterCoordinates: "39.463940, 34.934701"
-mapMobileCenterCoordinates: "39.787543, 30.496996"
+mapMobileCenterCoordinates: "39.463940, 34.934701"
 mapAutoDirections: false
+toDevfest: "'den WTM Eskişehir'e"
