@@ -10,7 +10,7 @@ module.exports = function(grunt) {
         app: {
             source: 'app',
             dist: 'dist',
-            baseurl: 'wtm16-grunt',
+            baseurl: '',
             git_repo: 'git@github.com:gdg-eskisehir/wtm16-grunt.git',
             branch: 'gh-pages'
         },

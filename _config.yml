@@ -1,6 +1,7 @@
 # Plugins
 gems:
 - jekyll-sitemap
+- octopress-debugger
 
 # Grunt handles images and assets.
 exclude: ['img', 'css', 'js', 'fonts',
@@ -14,7 +15,7 @@ show_drafts: true
 markdown: kramdown
 
 # Site settings
-baseurl: "/wtm16-grunt"
+baseurl: ""
 url: "http://gdg-eskisehir.github.io"
 permalink: '/blog/:title'
 

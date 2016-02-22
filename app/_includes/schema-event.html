@@ -24,10 +24,11 @@
             "geo" : {
                 "@type" : "GeoCoordinates",
                 {% assign coordinates = site.data.[site.lang].index.location-map.placeCoordinates | split:"," %}
-                "latitude" : "{{ coordinates[0] }}",
-                "longitude" : "{{ coordinates[1] }}"
+                "latitude" : "{{ coordinates }}",
+                "longitude" : "{{ coordinates }}"
             }
         },
+        {% comment %}
         // Not supported yet
         // "organizer" : {
         //     "@type" : "Organization",
@@ -38,6 +39,8 @@
         //     "email" : "{{ site.data.[site.lang].general.basic.organizerEmail }}",
         //     "sameAs" : "{{ site.data.[site.lang].general.basic.organizerLink }}"
         // },
+        {% endcomment %}
+        {% comment %}
         // "subEvent" : {
         //     "@type" : "Event",
         //     "name" : "{{ site.data.[site.lang].hackathon.about.title }}",
@@ -62,11 +65,12 @@
         //         "geo" : {
         //             "@type" : "GeoCoordinates",
         //             {% assign hackathonCoordinates = site.data.[site.lang].hackathon.location.placeCoordinates | split:"," %}
-        //             "latitude" : "{{ hackathonCoordinates[0] }}",
-        //             "longitude" : "{{ hackathonCoordinates[1] }}"
+        //             "latitude" : "{{ hackathonCoordinates }}",
+        //             "longitude" : "{{ hackathonCoordinates }}"
         //         }
         //     }
         // },
+        {% endcomment %}
         "offers" : [
         {% for ticketsOffer in site.data.[site.lang].index.tickets.ticketsOffers %}
         {
