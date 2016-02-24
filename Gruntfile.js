@@ -35,7 +35,7 @@ module.exports = function(grunt) {
         browserSync: {
             options: {
                 notify: false,
-                port: 80,
+                port: 9000,
                 open: true,
                 startPath: '/<%= app.baseurl %>'
             },
