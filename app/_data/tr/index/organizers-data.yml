@@ -1,9 +1,9 @@
 - 
   group: "Ana Organizatör"
   elements: 
-    - {name: "WTM Eskişehir", description: "WTM Eskişehir - Herkese açık ve gönüllü geek topluluğu", link: "http://wtmeskisehir.org", imageUrl: "gdg-lviv.svg"}
+    - {name: "WTM Eskişehir", description: "WTM Eskişehir - Herkese açık ve gönüllü geek topluluğu", link: "http://wtmeskisehir.org", imageUrl: "wtm-eskisehir.svg"}
 - 
   group: "Diğer Organizatörler"
   elements: 
-    - {name: "Anadolu Üniversitesi Bilgisayar Kulübü", description: "Bilgisayar Kulübü - Kurulduğu günden beri bilgisayar bağımlısı tek kulüp!", link: "http://bk.anadolu.edu.tr", imageUrl: "gdg-kyiv.svg"}
-    - {name: "GDG Eskişehir", description: "GDG Eskişehir - Herkese açık ve gönüllü geek topluluğu", link: "http://cherkassy.gdg.org.ua", imageUrl: "gdg-cherkasy.svg"}
+    - {name: "Anadolu Üniversitesi Bilgisayar Kulübü", description: "Bilgisayar Kulübü - Kurulduğu günden beri bilgisayar bağımlısı tek kulüp!", link: "http://bk.anadolu.edu.tr", imageUrl: "anadolu-bk.svg"}
+    - {name: "GDG Eskişehir", description: "GDG Eskişehir - Herkese açık ve gönüllü geek topluluğu", link: "http://gdgeskisehir.org", imageUrl: "gdg-eskisehir.svg"}

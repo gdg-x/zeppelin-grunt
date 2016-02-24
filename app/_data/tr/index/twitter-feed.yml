@@ -1,4 +1,4 @@
 image: "twitter-feed.jpg"
 title: "Neler oluyor?"
 hashTag: "IWD16"
-feed: "http://lviv.gdg.org.ua/tweetledee/favoritesjson.php?c=10&cache_interval=8000"
+feed: "http://gdg.airdebug.com/tweetledee/favoritesjson.php?c=10&cache_interval=8000"

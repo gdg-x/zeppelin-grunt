@@ -2,7 +2,7 @@ image: "hero.jpg"
 title: "Women Techmakers <typeout> sağlar"
 eventDate: "5 Mart, 2016"
 typeoutTextValues: '"", "gönürürlük", "kaynak", "topluluk"'
-typeoutFallback: "??"
+typeoutFallback: "gönürürlük"
 buttons:
  - {link: "http://bit.ly/dfua-c4p", text: "Konuşmacı olun!"}
  - {permalink: "/#tickets", text: "Bilet alın!"}

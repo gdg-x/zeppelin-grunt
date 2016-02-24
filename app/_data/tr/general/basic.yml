@@ -1,7 +1,7 @@
 # Site Settings
 title: "WTM Eskisehir 2016"
-email: "gdgeskisehir@gmail.com"
-description: "GDG DevFest is a set of events all around the world"
+email: "info@wtmeskisehir.org"
+description: "GDG Eskişehir ve WTM Eskişehir ortaklığıyla düzenlenen ve kadınlar günü kapsamında bu yılda 5 Mart 2016 tarihinde Anadolu Üniversitesinde WTM etkinliği gerçekleşecek."
 enablePreloader: false
 
 # Head
@@ -15,8 +15,8 @@ themeColor: "#03a9f4"
 # Organizer Info
 organizerName: "WTM Eskişehir"
 organizerAlternateName: "Women Techmakers Eskişehir"
-organizerDescription: "Open and volunteer geek communities who create exciting projects and share experience about Google technology with passion."
-organizerEmail: "gdgeskisehir@gmail.com"
+organizerDescription: "GDG Eskişehir'in desteğiyle oluşturulmuş, teknoloji ile ilgilenen kadınların bu alanda görünürlüğünü arttırmak, desteklemek, birbirleriyle olan iletişimini arttırmak amacıyla oluşturulmuş bir topluluktur."
+organizerEmail: "info@wtmeskisehir.org"
 organizerLogo: "/img/seo/organizer-logo.png"
 organizerLink: "http://gdgeskisehir.org/"
 
@@ -31,5 +31,5 @@ disqusShortName: ""
 
 # i18n
 languages:
-  en: English
+# en: English
   tr: Türkçe
