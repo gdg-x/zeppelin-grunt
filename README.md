@@ -67,7 +67,7 @@ Going to use template? Go on! The only thing we ask - let us know at [*lviv@gdg.
 
 View [known sites](https://github.com/gdg-x/zeppelin#who-is-using-template) that use the original project.
 
-| [Android Developer Days 2015](http://www.androiddeveloperday.com/2015/) |  |  |
+| [Android Developer Days 2015](http://www.androiddeveloperday.com/2015/) | [droidcon Vienna 2016](https://droidcon.at/) |  |
 |-----------------------------|-----------------------------|-----------------------------|
 ### Used libraries
 * [Bootstrap Sass](https://github.com/twbs/bootstrap-sass)
