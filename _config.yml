@@ -19,5 +19,5 @@ url: "http://devfest2016.ru"
 permalink: '/blog/:title'
 
 # i18n
-languages: ["en", "ru"]
+languages: ["ru"]
 exclude_from_localizations: ["js", "img", "css"]

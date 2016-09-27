@@ -5,7 +5,7 @@ description: ""
 enablePreloader: false
 
 # Head
-metaKeywords: "event, gdg, devfest, google, programming, android, chrome, developers, kazan, kzn"
+metaKeywords: "event, gdg, devfest, google, programming, android, chrome, developers, kazan, kzn, Казань, Иннополис, ГДГ"
 twitterAccount: "@GDGKazan"
 socialImageSrcGooglePlus: "/img/seo/sharing-google-plus.png"
 socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
@@ -21,8 +21,8 @@ organizerLogo: "/img/seo/organizer-logo.png"
 organizerLink: "https://vk.com/gdgkazan"
 
 # Documents
-#c4pUrl: "http://bit.ly/dfua-c4p"
-#c4pButton: "Become a speaker"
+c4pUrl: "http://bit.ly/dfua-c4p"
+c4pButton: "Стань докладчиком"
 
 # Varibles
 googleAnalyticsTrackingId: "UA-43643469-7"
@@ -31,5 +31,4 @@ disqusShortName: "devfestkzn"
 
 # i18n
 languages:
-  en: English
   ru: Русский

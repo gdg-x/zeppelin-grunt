@@ -11,6 +11,6 @@ links:
     - {link: "https://vk.com/gdgkazan", text: "GDGKazan"}
     - {link: "https://www.instagram.com/gdgkazan/", text: "gdgkazan"}
 bottomLinks:
- - {link: "http://bit.ly/dfua-c4p", text: "Become a speaker"}
+ - {link: "http://bit.ly/dfua-c4p", text: "Стань докладчиком"}
 rightButtons:
- - {link: "http://bit.ly/dfua-c4p", text: "Become a speaker"}
+ - {link: "http://bit.ly/dfua-c4p", text: "Стань докладчиком"}

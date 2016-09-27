@@ -19,18 +19,6 @@
 			</ul>
 		</div>
 		{% endfor %}
-		<div class="col-md-{{ colWidth }} col-xs-6">
-			<h5>{{ site.data.[site.lang].general.footer.languagesTitle }}</h5>
-			<ul>
-				{% for lang in site.languages %}
-				{% if lang != site.lang and forloop.index0 != 0 %}
-					<li><a href="{{ site.baseurl_root | append: '/' | append: lang | append: page.url }}" title="{{ site.data.[lang].general.basic.languages[lang] }}">{{ site.data.[lang].general.basic.languages[lang] }}</a></li>
-				{% elsif lang != site.lang %}
-					<li><a href="{{ site.baseurl_root | append: page.url }}" title="{{ site.data.[lang].general.basic.languages[lang] }}">{{ site.data.[lang].general.basic.languages[lang] }}</a></li>
-				{% endif %}
-				{% endfor %}
-			</ul>
-		</div>
 	</div>
 	<div class="row">
 		<div class="col-md-6 col-xs-12">
@@ -51,7 +39,7 @@
 		<!-- Please don't delete this line-->
 		<div class="col-md-6">
 			<p class="copyright">
-				&copy; 2015 Based on <a href="https://github.com/gdg-x/zeppelin-grunt" target="_blank">Project Zeppelin-Grunt</a>. Designed and created by <a href="http://o.zasadnyy.com/" target="_blank">Oleh Zasadnyy</a> &middot; <a href="http://lviv.gdg.org.ua" target="_blank">GDG Lviv</a>
+				&copy; 2016 Based on <a href="https://github.com/gdg-x/zeppelin-grunt" target="_blank">Project Zeppelin-Grunt</a>. Designed and created by <a href="http://o.zasadnyy.com/" target="_blank">Oleh Zasadnyy</a> &middot; <a href="http://lviv.gdg.org.ua" target="_blank">GDG Lviv</a>
 			</p>
 		</div>
 	</div>
