@@ -1,12 +1,9 @@
 links:
  - {permalink: "/", text: "Главная"}
-# - {permalink: "/blog/", text: "Blo"}
  - {permalink: "/schedule/", text: "Расписание"}
  - {permalink: "/speakers/", text: "Спикеры"}
  - {permalink: "/team/", text: "Команда"}
-# - {permalink: "/logistics/", text: "Logistics"}
-# - {permalink: "/hackathon/", text: "Hackathon"}
- - 
+ -
    subText: "Социальные сети"
    links:
     - {link: "https://plus.google.com/103759944477186385508", text: "+GDGKazan"}

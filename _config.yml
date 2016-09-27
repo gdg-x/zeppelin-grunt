@@ -14,7 +14,7 @@ show_drafts: true
 markdown: kramdown
 
 # Site settings
-baseurl: "/"
+baseurl: "/kzn"
 url: "http://devfest2016.ru"
 permalink: '/blog/:title'
 
