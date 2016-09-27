@@ -1,6 +1,6 @@
 image: "hero.jpg"
 title: "GDG DevFest <typeout> 2016"
-eventDate: "September - November, 2016"
+eventDate: "26 Ноября 2016"
 typeoutTextValues: '"", "Казань", "Иннополис", "Татарстан"'
 typeoutFallback: "Казань"
 buttons:
