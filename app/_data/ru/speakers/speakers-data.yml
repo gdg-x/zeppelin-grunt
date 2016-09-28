@@ -13,7 +13,7 @@
   id: 2
   name: "Звиад"
   surname: "Кардава"
-  company: ""
+  company: "voximplant"
   title: "Google Developer Expert"
   bio: ""
   thumbnailUrl: ZviadKardava.jpg
@@ -35,8 +35,8 @@
   id: 4
   name: "Александр"
   surname: "Коршак"
-  company: ""
-  title: ""
+  company: "MERA"
+  title: "Android Team Leader"
   bio: ""
   thumbnailUrl: AlexanderKorshak.jpg
   rockstar: true
