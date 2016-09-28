@@ -1,8 +1,8 @@
 links:
  - {permalink: "/", text: "Главная"}
- - {permalink: "/schedule/", text: "Расписание"}
+# - {permalink: "/schedule/", text: "Расписание"}
  - {permalink: "/speakers/", text: "Спикеры"}
- - {permalink: "/team/", text: "Команда"}
+# - {permalink: "/team/", text: "Команда"}
  -
    subText: "Социальные сети"
    links:
