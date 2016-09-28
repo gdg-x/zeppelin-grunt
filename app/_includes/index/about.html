@@ -3,6 +3,9 @@
     <div class="content-wrapper">
         <div class="col-lg-10 col-lg-offset-1">
             <h3>{{ site.data.[site.lang].index.about.title }}</h3>
+            <p>
+                {{site.data.[site.lang].index.about.description}}
+            </p>
             <div class="row about-details">
                 {% assign animationDelay = 0 %}
                 {% for about in site.data.[site.lang].index.about.blocks %}

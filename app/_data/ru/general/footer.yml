@@ -1,0 +1,20 @@
+languagesTitle: "Языки"
+socialLinks:
+     - {link: "https://plus.google.com/103759944477186385508", icon: "google-plus"}
+     - {link: "https://twitter.com/GDGKazan", icon: "twitter"}
+     - {link: "https://vk.com/gdgkazan", icon: "vkontakte"}
+     - {link: "https://www.instagram.com/gdgkazan/", icon: "instagram"}
+blocks:
+ -
+  title: "Ссылки"
+  links:
+#   - {link: "http://gdg.org.ua", text: "GDG.org.ua"}
+   - {link: "https://developers.google.com", text: "Google Developers"}
+ -
+  title: "Контакты"
+  links:
+   - {link: "mailto:gdgkazan@gmail.com", text: "gdgkazan@gmail.com"}
+ -
+#  title: "FAQ"
+#  links:
+#   - {permalink: "/cod/", text: "Code of Conduct"}

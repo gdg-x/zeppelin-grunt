@@ -1,0 +1,31 @@
+image: "direction-details.jpeg"
+title: "Как ещё добраться до Иннополиса"
+cards:
+ - {title: "Общественный транспорт", information: 'Можно воспользоваться услугами общественного транспорта и приехать в Иннополис на одном из автобусов, которые ходят по <a href="http://vinnopolise.ru/marshruty-dvizheniya-avtobusov-v-innopolis-iz-kazani.html">расписанию</a>. '}
+# - {title: "Автомобиль", information: 'Google Transit is available in Lviv. So you can find your way in Google Maps. Moreover, you can download any of the offline public transit apps available for Lviv.'}
+# - {title: "Hotels", information: 'Lviv has lots of great hotels and hostels. More information will be available later.'}
+#wideCards:
+# -
+#  title: "Questions?"
+#  subCards:
+#   -
+#    title: "Hotels"
+#    links:
+#     - {link: "https://plus.google.com/b/102444623953913144164", text: "InterContinental"}
+#     - {link: "https://plus.google.com/b/102444623953913144164", text: "The Hotel Rex"}
+#     - {link: "https://plus.google.com/b/102444623953913144164", text: "Westin Market Street"}
+#     - {link: "https://plus.google.com/b/102444623953913144164", text: "Hotel Adagio"}
+#   -
+#    title: "Registration"
+#    links:
+#     - {link: "https://plus.google.com/b/102444623953913144164", text: "InterContinental"}
+#     - {link: "https://plus.google.com/b/102444623953913144164", text: "The Hotel Rex"}
+#     - {link: "https://plus.google.com/b/102444623953913144164", text: "Westin Market Street"}
+#     - {link: "https://plus.google.com/b/102444623953913144164", text: "Hotel Adagio"}
+#   -
+#    title: "Attendance Details"
+#    links:
+#     - {link: "https://plus.google.com/b/102444623953913144164", text: "InterContinental"}
+#     - {link: "https://plus.google.com/b/102444623953913144164", text: "The Hotel Rex"}
+#     - {link: "https://plus.google.com/b/102444623953913144164", text: "Westin Market Street"}
+#     - {link: "https://plus.google.com/b/102444623953913144164", text: "Hotel Adagio"}

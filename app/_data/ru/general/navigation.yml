@@ -1,0 +1,17 @@
+links:
+ - {permalink: "/", text: "Главная"}
+ - {permalink: "/logistics", text: "Трансфер"}
+# - {permalink: "/schedule/", text: "Расписание"}
+# - {permalink: "/speakers/", text: "Спикеры"}
+# - {permalink: "/team/", text: "Команда"}
+ -
+   subText: "Социальные сети"
+   links:
+    - {link: "https://plus.google.com/103759944477186385508", text: "Google+"}
+    - {link: "https://twitter.com/GDGKazan", text: "Twitter"}
+    - {link: "https://vk.com/gdgkazan", text: "Вконтакте"}
+    - {link: "https://www.instagram.com/gdgkazan/", text: "Instagram"}
+bottomLinks:
+ - {link: "https://goo.gl/forms/OFhUE32VRvS9oq2l2", text: "Зарегистрируйся"}
+rightButtons:
+ - {link: "https://goo.gl/forms/OFhUE32VRvS9oq2l2", text: "Зарегистрируйся"}

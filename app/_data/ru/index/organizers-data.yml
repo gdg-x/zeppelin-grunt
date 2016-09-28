@@ -1,0 +1,4 @@
+-
+  group: "Main organizer"
+  elements:
+    - {name: "GDG Kazan", description: "GDG Kazan - некоммерческое IT-сообщество", link: "http://vk.com/gdgkazan", imageUrl: "TRl8yXemcsY.jpg"}

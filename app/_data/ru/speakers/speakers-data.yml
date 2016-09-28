@@ -1,0 +1,42 @@
+-
+  id: 1
+  name: "Денис"
+  surname: "Неклюдов"
+  company: "Revolut.com"
+  title: "Google Developer Expert"
+  bio: "Являясь Google Developer Expert принял участие во многих конференциях, связанных с мобильной разработкой. Более шести лет занимаюсь написанием приложений под Android и могу разговаривать и рассказывать интересные вещи об этом часами."
+  thumbnailUrl: DenisNekludov.jpg
+  rockstar: true
+#  social:
+#    - {name: "google-plus", link: "https://plus.google.com/+DawidOstrowski/"}
+-
+  id: 2
+  name: "Звиад"
+  surname: "Кардава"
+  company: "voximplant"
+  title: "Google Developer Expert"
+  bio: ""
+  thumbnailUrl: ZviadKardava.jpg
+  rockstar: true
+#  social:
+#    - {name: "google-plus", link: "https://plus.google.com/+DawidOstrowski/"}
+
+-
+  id: 3
+  name: "Михаил"
+  surname: "Вайсман"
+  company: "Trinity Digital"
+  title: "CEO компании Trinity Digital"
+  bio: "CEO компании Trinity Digital Михаил Вайсман, расскажет, как сделать отличное приложение для Google Cardboard. А примером послужит приложение, разработанное компанией Михаила и получившее премию Google Material Design Award - AirPano Virtual Travel . Как выбрать лучшую и главное работающую технологию для работы с отображением 360-панорам узнаете  26 ноября на DevFest Kazan"
+  thumbnailUrl: MikhailVisseman.jpg
+  rockstar: true
+
+-
+  id: 4
+  name: "Александр"
+  surname: "Коршак"
+  company: "MERA"
+  title: "Android Team Leader"
+  bio: ""
+  thumbnailUrl: AlexanderKorshak.jpg
+  rockstar: true

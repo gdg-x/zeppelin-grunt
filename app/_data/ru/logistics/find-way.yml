@@ -1,0 +1,12 @@
+title: "из Казани"
+distance: "Distance"
+driving: "DRIVING"
+walking: "WALKING"
+bicycling: "BICYCLING"
+transit: "TRANSIT"
+findFlight: "Find Flight"
+viewOnMap: "View on Google Maps"
+mapCenterCoordinates: "55.786028, 49.116895"
+mapMobileCenterCoordinates: "55.786028, 49.116895"
+mapAutoDirections: false
+toDevfest: "к Devfest"

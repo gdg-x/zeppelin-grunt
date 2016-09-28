@@ -1,0 +1,6 @@
+image: "statistic.jpg"
+blocks:
+ - {count: "300", specialCharacter: "+", info: "участников", detail: ""}
+ - {count: "10", specialCharacter: "", info: "докладов", detail: ""}
+ - {count: "4", specialCharacter: "", info: "воркшопа", detail: ""}
+ - {count: "2", specialCharacter: "", info: "зала", detail: ""}

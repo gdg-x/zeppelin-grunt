@@ -1,0 +1,34 @@
+# Site Settings
+title: "GDG DevFest Kazan 2016"
+email: "gdgkazan@gmail.com"
+description: ""
+enablePreloader: false
+
+# Head
+metaKeywords: "event, gdg, devfest, google, programming, android, chrome, developers, kazan, kzn, Казань, Иннополис, ГДГ"
+twitterAccount: "@GDGKazan"
+socialImageSrcGooglePlus: "/img/seo/sharing-google-plus.png"
+socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
+socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
+themeColor: "#03a9f4"
+
+# Organizer Info
+organizerName: "GDG Казань"
+organizerAlternateName: "Google Developer Group Казань"
+organizerDescription: "Некоммерческое IT-сообщество, в основе которого лежат технологии Google для разработчиков под Android, VR, AR, IoT, Go, Chrome и другие"
+organizerEmail: "gdgkazan@gmail.com"
+organizerLogo: "/img/seo/organizer-logo.png"
+organizerLink: "https://vk.com/gdgkazan"
+
+# Documents
+c4pUrl: "http://bit.ly/dfua-c4p"
+c4pButton: "Стань докладчиком"
+
+# Varibles
+googleAnalyticsTrackingId: "UA-84931201-1"
+webtoolsSiteVerification: "b9imDOrFawXaBXCC4r3uJDdswSYcalD-wWpMYhFq-no"
+disqusShortName: "devfestkzn"
+
+# i18n
+languages:
+  ru: Русский

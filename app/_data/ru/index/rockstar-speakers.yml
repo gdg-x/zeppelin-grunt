@@ -1,0 +1,5 @@
+image: "rockstar-speakers.jpg"
+title: "Спикеры"
+count: 4
+showAll: false
+buttonText: "Показать всех"
