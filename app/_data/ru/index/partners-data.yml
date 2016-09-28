@@ -3,7 +3,7 @@
   elements:
     - {name: "Google", description: "Google", link: "https://www.google.com.ua/intl/en/about/", imageUrl: "google.svg"}
     - {name: "Innopolis", description: "Inopollis", link: "http://www.innopolis.com", imageUrl: "innopolis_logo.png"}
-#    - {name: "GDG Kazan", description: "GDG Lviv - Открытое и волонтерское техническое сообщество", link: "http://vk.com/gdgkazan", imageUrl: "TRl8yXemcsY.jpg"}
+#    - {name: "GDG Kazan", description: "GDG Kazan - некоммерческое IT-сообщество", link: "http://vk.com/gdgkazan", imageUrl: "TRl8yXemcsY.jpg"}
 -
   group: "With support of"
   elements:
