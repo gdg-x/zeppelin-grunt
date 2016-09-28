@@ -1,4 +1,5 @@
 image: "rockstar-speakers.jpg"
-title: "Rockstar speakers"
+title: "Спикеры"
 count: 4
-buttonText: "See all speakers"
+showAll: false
+buttonText: "Показать всех"
