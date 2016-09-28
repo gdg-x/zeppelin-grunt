@@ -12,8 +12,8 @@ permalink: /
  {% include index/rockstar-speakers.html %}
 
  {% include index/location-map.html %}
-
- {% include index/twitter-feed.html %}
-
+ {% if site.data.[site.lang].index.twitter-feed.enabled %}
+   {% include index/twitter-feed.html %}
+ {% endif %}
  {% include index/partners.html %}
 
