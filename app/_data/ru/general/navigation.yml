@@ -1,5 +1,6 @@
 links:
  - {permalink: "/", text: "Главная"}
+ - {permalink: "/logistics", text: "Трансфер"}
 # - {permalink: "/schedule/", text: "Расписание"}
 # - {permalink: "/speakers/", text: "Спикеры"}
 # - {permalink: "/team/", text: "Команда"}
