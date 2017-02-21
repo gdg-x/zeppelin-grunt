@@ -1,6 +1,6 @@
 image: "statistic.jpg"
 blocks:
- - {count: "350", specialCharacter: "+", info: "attendees", detail: "from everywhere"}
- - {count: "48", specialCharacter: "+", info: "hours", detail: "of pure Google technologies"}
- - {count: "20", specialCharacter: "+", info: "speakers", detail: "from country and beyond"}
- - {count: "3", specialCharacter: "", info: "parallel tracks", detail: "plus entertainment lounge"}
+ - {count: "150", specialCharacter: "+", info: "attendees", detail: "from everywhere"}
+ - {count: "60", specialCharacter: "+", info: "organisations", detail: "involved"}
+ - {count: "12", specialCharacter: "+", info: "talks", detail: "about bending the boundaries"}
+ - {count: "8", specialCharacter: "", info: "add-on developers", detail: "marketplace vendors"}

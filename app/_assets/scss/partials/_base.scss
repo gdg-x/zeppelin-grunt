@@ -1,3 +1,4 @@
+
 // Font weights
 $light: 100;
 $regular: 300;
@@ -25,12 +26,12 @@ $h5-font-size: 2.3 * $base-font-size;
 $h6-font-size: 1.875 * $base-font-size;
 
 // Colors
-$main-color: #03a9f4;
+$main-color: #59AFE1;
 $link-color: $main-color;
 $link-lighten-amount: 20%;
 $base-background-color: #fff;
 $base-section-background-color: $link-color;
-$primary-color: #4285f4;
+$primary-color: #59AFE1;
 $primary-color-hover: #3266d5;
 $icon-fill-color: #8b8b8b;
 
@@ -50,4 +51,4 @@ $long-cubic-transition: all .5s cubic-bezier(0.175, 0.885, 0.320, 1.275);
 // Path
 $image-dir: "../img";
 $sprites-dir: $image-dir + "/sprites";
-$logos-sprite: $sprites-dir + "/logos.svg";
+$logos-sprite: $sprites-dir + "/logos.png";

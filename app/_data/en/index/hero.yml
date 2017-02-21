@@ -1,8 +1,9 @@
 image: "hero.jpg"
-title: "GDG DevFest <typeout> 2014"
-eventDate: "September - November, 2014"
-typeoutTextValues: '"", "Season", "Ukraine", "Germany", "USA"'
-typeoutFallback: "Season"
+title: "Enterprise Day"
+eventDate: "18 November, 2015"
+typeoutTextValues: '"", "Bending the boundaries", "with Atlassian software", "inspiring keynotes", "JIRA"'
+typeoutFallback: "Bending the boundaries"
 buttons:
- - {link: "http://bit.ly/dfua-c4p", text: "Become a speaker"}
- - {permalink: "/#tickets", text: "Buy tickets"}
+ - {link: "http://goo.gl/forms/18YZSyQ7Qm", text: "Call for speakers"}
+ - {link: "http://goo.gl/forms/Hh92DQSA5J", text: "Sponsor"}
+ - {permalink: "/#tickets", text: "Register for Enterprise Day"}

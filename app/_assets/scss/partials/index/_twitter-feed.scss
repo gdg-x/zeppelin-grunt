@@ -1,11 +1,29 @@
 .twitter-feed {
+    ul {
+        list-style-type: none;
+        padding:0;
+    }
     h3 {
         margin-bottom: 10px;
+    }
+    h4 {
+        font-weight: 200;
+    }
+    .white {
+        color:#fff;
     }
     .icon {
         width: 64px;
         height: 64px;
         fill: #fff;
+    }
+    .ticker {
+        height: 200px;
+        overflow: hidden;    
+    }
+    .ticker li {
+        height: 200px;
+        overflow: hidden;
     }
 }
 .tweets {

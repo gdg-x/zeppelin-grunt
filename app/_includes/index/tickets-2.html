@@ -1,8 +1,8 @@
 <!-- Begin Tickets 2 Section -->
 <section id="tickets" class="tickets-2">
 	<div class="content-wrapper">
-		<div class="col-lg-8 col-md-10 col-lg-offset-2 col-md-offset-1">
-			<h3>{{ site.data.[site.lang].index.tickets.title }}</h3>
+		<div class="col-lg-8 col-md-10 col-lg-offset-2 col-md-offset-1" style="padding-top:50px;">
+			<h3>Register for tickets</h3>
 			<div class="tickets-table row animated hiding" data-animation="fadeInDown" data-delay="0">
 			{% assign animationDelay = 0 %}
             {% for ticketsOffer in site.data.[site.lang].index.tickets.offers %}
@@ -41,5 +41,6 @@
             <span class="tickets-info">{{ site.data.[site.lang].index.tickets.info }}</span>
 		</div>
 	</div>
+	* Trouble registering? Try <a href="https://riada.wufoo.com/forms/riada-atlassian-enterprise-day-2015/">this form</a> instead.
 </section>
 <!-- End Tickets 2 Section -->
