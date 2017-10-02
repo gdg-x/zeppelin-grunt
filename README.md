@@ -85,7 +85,7 @@ See [list of contributors](https://github.com/gdg-x/zepplin-grunt/graphs/contrib
 
 Maintainer: [@ozasadnyy](https://github.com/ozasadnyy).
 
-######GDG Apps, GDG[x] are not endorsed and/or supported by Google, the corporation.
+###### GDG Apps, GDG[x] are not endorsed and/or supported by Google, the corporation.
 
 ### License
 Project is published under the [MIT license](https://github.com/ozasadnyy/zeppelin-grunt/blob/master/LICENSE). Feel free to clone and modify repo as you want, but don't forget to add reference to authors :)
